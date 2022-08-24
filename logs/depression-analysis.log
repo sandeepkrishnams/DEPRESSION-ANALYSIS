@@ -1,0 +1,1655 @@
+2022-03-15 23:53:42,795 - root - INFO - App Initialized
+2022-03-15 23:53:43,130 - werkzeug - INFO -  * Restarting with stat
+2022-03-15 23:53:50,725 - root - INFO - App Initialized
+2022-03-15 23:53:50,746 - werkzeug - WARNING -  * Debugger is active!
+2022-03-15 23:53:50,814 - werkzeug - INFO -  * Debugger PIN: 460-668-880
+2022-03-15 23:53:51,005 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-03-16 18:23:09,910 - root - INFO - App Initialized
+2022-03-16 18:23:10,224 - werkzeug - INFO -  * Restarting with stat
+2022-03-16 18:23:14,512 - root - INFO - App Initialized
+2022-03-16 18:23:14,530 - werkzeug - WARNING -  * Debugger is active!
+2022-03-16 18:23:14,575 - werkzeug - INFO -  * Debugger PIN: 460-668-880
+2022-03-16 18:23:14,736 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-03-16 18:26:00,434 - werkzeug - INFO - 127.0.0.1 - - [16/Mar/2022 18:26:00] "GET /login HTTP/1.1" 200 -
+2022-03-16 18:26:01,132 - werkzeug - INFO - 127.0.0.1 - - [16/Mar/2022 18:26:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-03-16 18:26:08,415 - werkzeug - INFO - 127.0.0.1 - - [16/Mar/2022 18:26:08] "GET /sign-up HTTP/1.1" 200 -
+2022-03-16 18:26:22,581 - werkzeug - INFO - 127.0.0.1 - - [16/Mar/2022 18:26:22] "GET / HTTP/1.1" 200 -
+2022-03-16 18:26:22,702 - werkzeug - INFO - 127.0.0.1 - - [16/Mar/2022 18:26:22] "GET /video_feed HTTP/1.1" 200 -
+2022-03-20 15:09:48,155 - root - INFO - App Initialized
+2022-03-20 15:09:49,743 - werkzeug - INFO -  * Restarting with stat
+2022-03-20 15:09:52,681 - root - INFO - App Initialized
+2022-03-20 15:09:54,185 - werkzeug - WARNING -  * Debugger is active!
+2022-03-20 15:09:54,195 - werkzeug - INFO -  * Debugger PIN: 862-015-120
+2022-03-20 15:09:54,351 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-03-20 15:09:59,595 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:09:59] "[32mGET / HTTP/1.1[0m" 302 -
+2022-03-20 15:09:59,615 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:09:59] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-03-20 15:09:59,865 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:09:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-03-20 15:10:13,447 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:10:13] "GET /sign-up HTTP/1.1" 200 -
+2022-03-20 15:10:26,495 - root - INFO - Signed Up Successfully
+2022-03-20 15:10:26,504 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:10:26] "[32mPOST /sign-up HTTP/1.1[0m" 302 -
+2022-03-20 15:10:26,504 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:10:26] "GET /login HTTP/1.1" 200 -
+2022-03-20 15:10:35,889 - root - INFO - Logged in Successfully
+2022-03-20 15:10:35,895 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:10:35] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-03-20 15:10:35,905 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:10:35] "GET / HTTP/1.1" 200 -
+2022-03-20 15:10:37,716 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:10:37] "GET /video_feed HTTP/1.1" 200 -
+2022-03-20 15:11:31,395 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:11:31] "POST /record_status HTTP/1.1" 200 -
+2022-03-20 15:11:32,175 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:11:32] "POST /record_status HTTP/1.1" 200 -
+2022-03-20 15:20:38,095 - root - INFO - App Initialized
+2022-03-20 15:20:39,575 - werkzeug - INFO -  * Restarting with stat
+2022-03-20 15:20:42,254 - root - INFO - App Initialized
+2022-03-20 15:20:43,655 - werkzeug - WARNING -  * Debugger is active!
+2022-03-20 15:20:43,655 - werkzeug - INFO -  * Debugger PIN: 862-015-120
+2022-03-20 15:20:43,795 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-03-20 15:20:50,655 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:20:50] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-03-20 15:21:24,872 - werkzeug - INFO - 127.0.0.1 - - [20/Mar/2022 15:21:24] "GET /sign-up HTTP/1.1" 200 -
+2022-03-26 17:21:12,194 - root - INFO - App Initialized
+2022-03-26 17:21:12,238 - werkzeug - INFO -  * Restarting with stat
+2022-03-26 17:21:14,431 - root - INFO - App Initialized
+2022-03-26 17:21:14,466 - werkzeug - WARNING -  * Debugger is active!
+2022-03-26 17:21:14,470 - werkzeug - INFO -  * Debugger PIN: 862-015-120
+2022-03-26 17:21:14,591 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-03-28 18:43:39,728 - root - INFO - App Initialized
+2022-03-28 18:43:39,848 - werkzeug - INFO -  * Restarting with stat
+2022-03-28 18:43:42,188 - root - INFO - App Initialized
+2022-03-28 18:43:42,268 - werkzeug - WARNING -  * Debugger is active!
+2022-03-28 18:43:42,272 - werkzeug - INFO -  * Debugger PIN: 862-015-120
+2022-03-28 18:43:42,404 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-03-28 18:43:48,523 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:43:48] "GET / HTTP/1.1" 200 -
+2022-03-28 18:43:48,601 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:43:48] "GET /video_feed HTTP/1.1" 200 -
+2022-03-28 18:44:07,759 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:44:07] "GET / HTTP/1.1" 200 -
+2022-03-28 18:44:07,779 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:44:07] "GET /video_feed HTTP/1.1" 200 -
+2022-03-28 18:45:29,004 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:45:29] "GET / HTTP/1.1" 200 -
+2022-03-28 18:45:29,023 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:45:29] "GET /video_feed HTTP/1.1" 200 -
+2022-03-28 18:48:43,757 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:48:43] "POST /record_status HTTP/1.1" 200 -
+2022-03-28 18:48:44,588 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:48:44] "POST /record_status HTTP/1.1" 200 -
+2022-03-28 18:48:45,950 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:48:45] "GET / HTTP/1.1" 200 -
+2022-03-28 18:48:45,980 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:48:45] "GET /video_feed HTTP/1.1" 200 -
+2022-03-28 18:51:11,805 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:51:11] "GET / HTTP/1.1" 200 -
+2022-03-28 18:51:11,836 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:51:11] "GET /video_feed HTTP/1.1" 200 -
+2022-03-28 18:52:44,600 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:52:44] "GET / HTTP/1.1" 200 -
+2022-03-28 18:52:44,617 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:52:44] "GET /video_feed HTTP/1.1" 200 -
+2022-03-28 18:52:45,262 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:52:45] "GET / HTTP/1.1" 200 -
+2022-03-28 18:52:45,278 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:52:45] "GET /video_feed HTTP/1.1" 200 -
+2022-03-28 18:52:45,649 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:52:45] "GET / HTTP/1.1" 200 -
+2022-03-28 18:52:45,664 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:52:45] "GET /video_feed HTTP/1.1" 200 -
+2022-03-28 18:52:45,937 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:52:45] "GET / HTTP/1.1" 200 -
+2022-03-28 18:52:45,955 - werkzeug - INFO - 127.0.0.1 - - [28/Mar/2022 18:52:45] "GET /video_feed HTTP/1.1" 200 -
+2022-03-29 00:31:12,502 - root - INFO - App Initialized
+2022-03-29 00:31:13,908 - werkzeug - INFO -  * Restarting with stat
+2022-03-29 00:31:16,137 - root - INFO - App Initialized
+2022-03-29 00:31:17,544 - werkzeug - WARNING -  * Debugger is active!
+2022-03-29 00:31:17,549 - werkzeug - INFO -  * Debugger PIN: 862-015-120
+2022-03-29 00:31:17,703 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-03-29 00:31:20,238 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:20] "GET / HTTP/1.1" 200 -
+2022-03-29 00:31:21,847 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:21] "GET /video_feed HTTP/1.1" 200 -
+2022-03-29 00:31:21,859 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-03-29 00:31:25,010 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:25] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-03-29 00:31:25,021 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:25] "GET /login HTTP/1.1" 200 -
+2022-03-29 00:31:28,888 - root - INFO - Logged in Successfully
+2022-03-29 00:31:28,889 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:28] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-03-29 00:31:28,894 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:28] "GET / HTTP/1.1" 200 -
+2022-03-29 00:31:30,437 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:30] "GET /video_feed HTTP/1.1" 200 -
+2022-03-29 00:31:33,923 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:33] "POST /record_status HTTP/1.1" 200 -
+2022-03-29 00:31:37,801 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:37] "POST /record_status HTTP/1.1" 200 -
+2022-03-29 00:31:40,508 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:40] "GET / HTTP/1.1" 200 -
+2022-03-29 00:31:40,531 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:40] "GET /video_feed HTTP/1.1" 200 -
+2022-03-29 00:31:41,706 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:41] "POST /record_status HTTP/1.1" 200 -
+2022-03-29 00:31:46,248 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:31:46] "POST /record_status HTTP/1.1" 200 -
+2022-03-29 00:32:45,413 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:32:45] "GET / HTTP/1.1" 200 -
+2022-03-29 00:32:45,493 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:32:45] "GET /video_feed HTTP/1.1" 200 -
+2022-03-29 00:32:46,621 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:32:46] "POST /record_status HTTP/1.1" 200 -
+2022-03-29 00:32:52,017 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:32:52] "POST /record_status HTTP/1.1" 200 -
+2022-03-29 00:32:54,973 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:32:54] "GET /static/video.avi HTTP/1.1" 200 -
+2022-03-29 00:34:49,897 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:34:49] "POST /record_status HTTP/1.1" 200 -
+2022-03-29 00:34:51,305 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:34:51] "POST /record_status HTTP/1.1" 200 -
+2022-03-29 00:34:52,277 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:34:52] "GET / HTTP/1.1" 200 -
+2022-03-29 00:34:52,325 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:34:52] "GET /video_feed HTTP/1.1" 200 -
+2022-03-29 00:34:53,233 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:34:53] "POST /record_status HTTP/1.1" 200 -
+2022-03-29 00:34:54,919 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:34:54] "POST /record_status HTTP/1.1" 200 -
+2022-03-29 00:34:56,259 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2022 00:34:56] "GET /video_feed HTTP/1.1" 200 -
+2022-03-31 23:58:35,382 - root - INFO - Database created
+2022-03-31 23:58:35,383 - root - INFO - App Initialized
+2022-03-31 23:58:35,442 - werkzeug - INFO -  * Restarting with stat
+2022-03-31 23:58:38,715 - root - INFO - App Initialized
+2022-03-31 23:58:38,792 - werkzeug - WARNING -  * Debugger is active!
+2022-03-31 23:58:38,797 - werkzeug - INFO -  * Debugger PIN: 255-503-879
+2022-03-31 23:58:38,923 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-01 00:00:50,391 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:00:50] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-01 00:00:50,406 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:00:50] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-01 00:00:50,489 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:00:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-01 00:00:55,095 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:00:55] "POST /login HTTP/1.1" 200 -
+2022-04-01 00:01:00,959 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:01:00] "POST /login HTTP/1.1" 200 -
+2022-04-01 00:01:07,986 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:01:07] "POST /login HTTP/1.1" 200 -
+2022-04-01 00:02:03,405 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:03] "GET /sign-up HTTP/1.1" 200 -
+2022-04-01 00:02:18,217 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:18] "POST /login HTTP/1.1" 200 -
+2022-04-01 00:02:19,750 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:19] "GET /sign-up HTTP/1.1" 200 -
+2022-04-01 00:02:30,528 - root - INFO - Signed Up Successfully
+2022-04-01 00:02:30,529 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:30] "[32mPOST /sign-up HTTP/1.1[0m" 302 -
+2022-04-01 00:02:30,538 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:30] "GET /login HTTP/1.1" 200 -
+2022-04-01 00:02:34,655 - root - INFO - Logged in Successfully
+2022-04-01 00:02:34,656 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:34] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-01 00:02:34,684 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:34] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2022-04-01 00:02:34,715 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:34] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-01 00:02:34,716 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:34] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-01 00:02:34,743 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:34] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-01 00:02:34,753 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:34] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-01 00:02:34,767 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:34] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-01 00:02:51,839 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2022-04-01 00:02:51,858 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:51] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-01 00:02:51,859 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:51] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-01 00:02:51,867 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:51] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-01 00:02:51,869 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-01 00:02:51,888 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:02:51] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-01 00:03:57,150 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:03:57] "GET / HTTP/1.1" 200 -
+2022-04-01 00:03:57,191 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:03:57] "GET /video_feed HTTP/1.1" 200 -
+2022-04-01 00:04:05,358 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:04:05] "POST /record_status HTTP/1.1" 200 -
+2022-04-01 00:04:09,351 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:04:09] "GET / HTTP/1.1" 200 -
+2022-04-01 00:04:09,464 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:04:09] "GET /video_feed HTTP/1.1" 200 -
+2022-04-01 00:04:11,076 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:04:11] "POST /record_status HTTP/1.1" 200 -
+2022-04-01 00:04:13,244 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:04:13] "POST /record_status HTTP/1.1" 200 -
+2022-04-01 00:04:13,249 - werkzeug - INFO - 127.0.0.1 - - [01/Apr/2022 00:04:13] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:06:11,981 - root - INFO - App Initialized
+2022-04-02 13:06:12,067 - werkzeug - INFO -  * Restarting with stat
+2022-04-02 13:06:14,290 - root - INFO - App Initialized
+2022-04-02 13:06:14,366 - werkzeug - WARNING -  * Debugger is active!
+2022-04-02 13:06:14,372 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-02 13:06:14,492 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-02 13:08:08,686 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:08:08] "GET / HTTP/1.1" 200 -
+2022-04-02 13:08:08,745 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:08:08] "GET /video_feed HTTP/1.1" 200 -
+2022-04-02 13:08:08,776 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:08:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-02 13:08:11,196 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:08:11] "POST /record_status HTTP/1.1" 200 -
+2022-04-02 13:08:11,779 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:08:11] "POST /record_status HTTP/1.1" 200 -
+2022-04-02 13:08:11,787 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:08:11] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:10:13,279 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:10:13] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:20:28,365 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:20:28] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:20:30,986 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:20:30] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:20:34,877 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:20:34] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:20:55,038 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:20:55] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:21:29,039 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:21:29] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:21:35,506 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:21:35] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:22:58,935 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:22:58] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:23:23,093 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\questionnaire.py', reloading
+2022-04-02 13:23:23,348 - werkzeug - INFO -  * Restarting with stat
+2022-04-02 13:23:25,666 - root - INFO - App Initialized
+2022-04-02 13:23:25,740 - werkzeug - WARNING -  * Debugger is active!
+2022-04-02 13:23:25,744 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-02 13:23:25,879 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-02 13:23:26,044 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:23:26] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:23:27,171 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\questionnaire.py', reloading
+2022-04-02 13:23:27,424 - werkzeug - INFO -  * Restarting with stat
+2022-04-02 13:23:29,831 - root - INFO - App Initialized
+2022-04-02 13:23:29,912 - werkzeug - WARNING -  * Debugger is active!
+2022-04-02 13:23:29,918 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-02 13:23:30,048 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-02 13:23:30,308 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:23:30] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:23:40,810 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:23:40] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 13:25:48,560 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 13:25:48] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 14:03:59,598 - root - INFO - App Initialized
+2022-04-02 14:03:59,690 - werkzeug - INFO -  * Restarting with stat
+2022-04-02 14:04:02,137 - root - INFO - App Initialized
+2022-04-02 14:04:02,240 - werkzeug - WARNING -  * Debugger is active!
+2022-04-02 14:04:02,244 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-02 14:04:02,376 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-02 14:04:02,460 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 14:04:02] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 14:05:30,260 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 14:05:30] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 14:08:18,887 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 14:08:18] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 14:09:32,044 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 14:09:32] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 14:10:20,339 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 14:10:20] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 14:10:40,724 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 14:10:40] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 14:10:46,835 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 14:10:46] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 14:10:47,520 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 14:10:47] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 14:10:47,929 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 14:10:47] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 14:10:52,267 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 14:10:52] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 14:11:38,234 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 14:11:38] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 15:01:19,844 - root - INFO - App Initialized
+2022-04-02 15:01:19,886 - werkzeug - INFO -  * Restarting with stat
+2022-04-02 15:01:22,262 - root - INFO - App Initialized
+2022-04-02 15:01:22,302 - werkzeug - WARNING -  * Debugger is active!
+2022-04-02 15:01:22,307 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-02 15:01:22,439 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-02 15:01:25,932 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:01:25] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 15:02:28,131 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:02:28] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 15:03:06,671 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:06] "[35m[1mGET /depression-analysis?1=0&2=2&3=2&4=1&5=1&6=1&7=2&8=3&9=3&10=3&11=2&12=1&13=1&14=1&15=1&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-02 15:03:06,700 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:06] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-02 15:03:06,700 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:06] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-02 15:03:06,735 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:06] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-02 15:03:06,749 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:06] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-02 15:03:06,766 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:06] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-02 15:03:43,715 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:43] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 15:03:46,295 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:46] "[35m[1mGET /depression-analysis?1=0&2=2&3=2&4=1&5=1&6=1&7=2&8=3&9=3&10=3&11=2&12=1&13=1&14=1&15=1&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-02 15:03:46,314 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:46] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-02 15:03:46,316 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:46] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-02 15:03:46,334 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:46] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-02 15:03:46,345 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:46] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-02 15:03:46,355 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:03:46] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-02 15:05:43,370 - root - INFO - App Initialized
+2022-04-02 15:05:43,422 - werkzeug - INFO -  * Restarting with stat
+2022-04-02 15:05:48,220 - root - INFO - App Initialized
+2022-04-02 15:05:48,285 - werkzeug - WARNING -  * Debugger is active!
+2022-04-02 15:05:48,291 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-02 15:05:48,469 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-02 15:05:49,325 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:05:49] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 15:10:32,897 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:10:32] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 15:10:46,382 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:10:46] "[35m[1mGET /depression-analysis?1=0&2=2&3=2&4=1&5=1&6=1&7=2&8=3&9=3&10=3&11=2&12=1&13=1&14=1&15=1&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-02 15:11:04,391 - root - INFO - App Initialized
+2022-04-02 15:11:04,443 - werkzeug - INFO -  * Restarting with stat
+2022-04-02 15:11:09,059 - root - INFO - App Initialized
+2022-04-02 15:11:09,105 - werkzeug - WARNING -  * Debugger is active!
+2022-04-02 15:11:09,111 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-02 15:11:09,263 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-02 15:12:14,007 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:12:14] "[35m[1mGET /depression-analysis?1=1&2=1&3=1&4=1&5=0&6=1&7=1&8=1&9=1&10=0&11=1&12=0&13=1&14=1&15=1&16=2&17=1 HTTP/1.1[0m" 500 -
+2022-04-02 15:12:14,037 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:12:14] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-02 15:12:14,042 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:12:14] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-02 15:12:14,056 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:12:14] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-02 15:12:14,070 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:12:14] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-02 15:12:14,090 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:12:14] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-02 15:12:40,899 - root - INFO - App Initialized
+2022-04-02 15:12:40,939 - werkzeug - INFO -  * Restarting with stat
+2022-04-02 15:12:43,263 - root - INFO - App Initialized
+2022-04-02 15:12:43,301 - werkzeug - WARNING -  * Debugger is active!
+2022-04-02 15:12:43,305 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-02 15:12:43,433 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-02 15:12:44,713 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:12:44] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=0&6=1&7=1&8=1&9=1&10=0&11=1&12=0&13=1&14=1&15=1&16=2&17=1 HTTP/1.1" 200 -
+2022-04-02 15:12:44,738 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:12:44] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-02 15:12:45,514 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:12:45] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-02 15:17:46,743 - werkzeug - INFO -  * Detected change in 'c:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-02 15:17:46,971 - werkzeug - INFO -  * Restarting with stat
+2022-04-02 15:17:49,503 - root - INFO - App Initialized
+2022-04-02 15:17:49,538 - werkzeug - WARNING -  * Debugger is active!
+2022-04-02 15:17:49,542 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-02 15:17:49,670 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-02 15:17:53,569 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:17:53] "[32mGET /depression-analysis?1=1&2=1&3=1&4=1&5=0&6=1&7=1&8=1&9=1&10=0&11=1&12=0&13=1&14=1&15=1&16=2&17=1 HTTP/1.1[0m" 302 -
+2022-04-02 15:17:53,593 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:17:53] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 15:18:00,350 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:18:00] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 15:18:03,563 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:18:03] "[32mGET /depression-analysis?1=1&2=1&3=1&4=1&5=0&6=1&7=1&8=1&9=1&10=0&11=1&12=0&13=1&14=1&15=1&16=2&17=1 HTTP/1.1[0m" 302 -
+2022-04-02 15:18:03,570 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:18:03] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 15:18:05,351 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:18:05] "GET /quiz HTTP/1.1" 200 -
+2022-04-02 15:18:14,527 - werkzeug - INFO -  * Detected change in 'c:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-02 15:18:14,769 - werkzeug - INFO -  * Restarting with stat
+2022-04-02 15:18:17,027 - root - INFO - App Initialized
+2022-04-02 15:18:17,068 - werkzeug - WARNING -  * Debugger is active!
+2022-04-02 15:18:17,073 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-02 15:18:17,201 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-02 15:18:19,734 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:18:19] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=0&6=1&7=1&8=1&9=1&10=0&11=1&12=0&13=1&14=1&15=1&16=2&17=1 HTTP/1.1" 200 -
+2022-04-02 15:18:19,755 - werkzeug - INFO - 127.0.0.1 - - [02/Apr/2022 15:18:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-03 00:27:17,919 - root - INFO - Database created
+2022-04-03 00:27:17,920 - root - INFO - App Initialized
+2022-04-03 00:27:17,980 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 00:27:20,433 - root - INFO - App Initialized
+2022-04-03 00:27:20,469 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 00:27:20,473 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 00:27:20,597 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 00:27:22,865 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:22] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-03 00:27:22,877 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:22] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-03 00:27:22,968 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-03 00:27:26,079 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:26] "GET /sign-up HTTP/1.1" 200 -
+2022-04-03 00:27:34,238 - root - INFO - Signed Up Successfully
+2022-04-03 00:27:34,239 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:34] "[32mPOST /sign-up HTTP/1.1[0m" 302 -
+2022-04-03 00:27:34,247 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:34] "GET /login HTTP/1.1" 200 -
+2022-04-03 00:27:39,031 - root - INFO - Logged in Successfully
+2022-04-03 00:27:39,032 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:39] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-03 00:27:39,039 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:39] "GET / HTTP/1.1" 200 -
+2022-04-03 00:27:39,073 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:39] "GET /video_feed HTTP/1.1" 200 -
+2022-04-03 00:27:40,829 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:40] "POST /record_status HTTP/1.1" 200 -
+2022-04-03 00:27:43,514 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:43] "POST /record_status HTTP/1.1" 200 -
+2022-04-03 00:27:43,520 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:43] "GET /quiz HTTP/1.1" 200 -
+2022-04-03 00:27:47,565 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:47] "GET / HTTP/1.1" 200 -
+2022-04-03 00:27:47,582 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:47] "GET /video_feed HTTP/1.1" 200 -
+2022-04-03 00:27:51,905 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:51] "GET / HTTP/1.1" 200 -
+2022-04-03 00:27:51,921 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:51] "GET /video_feed HTTP/1.1" 200 -
+2022-04-03 00:27:53,048 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:53] "POST /record_status HTTP/1.1" 200 -
+2022-04-03 00:27:55,427 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:55] "GET / HTTP/1.1" 200 -
+2022-04-03 00:27:55,444 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:55] "GET /video_feed HTTP/1.1" 200 -
+2022-04-03 00:27:55,939 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:55] "GET / HTTP/1.1" 200 -
+2022-04-03 00:27:55,956 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:55] "GET /video_feed HTTP/1.1" 200 -
+2022-04-03 00:27:59,329 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:27:59] "GET /login HTTP/1.1" 200 -
+2022-04-03 00:28:02,843 - root - INFO - Logged in Successfully
+2022-04-03 00:28:02,844 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:28:02] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-03 00:28:02,850 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:28:02] "GET / HTTP/1.1" 200 -
+2022-04-03 00:28:02,869 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:28:02] "GET /video_feed HTTP/1.1" 200 -
+2022-04-03 00:28:10,159 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:28:10] "POST /record_status HTTP/1.1" 200 -
+2022-04-03 00:28:18,193 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:28:18] "POST /record_status HTTP/1.1" 200 -
+2022-04-03 00:28:18,197 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:28:18] "GET /quiz HTTP/1.1" 200 -
+2022-04-03 00:28:19,459 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:28:19] "GET /login HTTP/1.1" 200 -
+2022-04-03 00:28:25,130 - root - INFO - App Initialized
+2022-04-03 00:28:26,526 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 00:28:29,029 - root - INFO - App Initialized
+2022-04-03 00:28:30,282 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 00:28:30,285 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 00:28:30,413 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 00:28:31,439 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:28:31] "GET / HTTP/1.1" 200 -
+2022-04-03 00:28:33,006 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:28:33] "GET /video_feed HTTP/1.1" 200 -
+2022-04-03 00:30:59,730 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:30:59] "POST /record_status HTTP/1.1" 200 -
+2022-04-03 00:31:01,955 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:31:01] "POST /record_status HTTP/1.1" 200 -
+2022-04-03 00:31:01,962 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:31:01] "GET /quiz HTTP/1.1" 200 -
+2022-04-03 00:34:01,969 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:34:01] "GET /depression-analysis?1=1&2=0&3=0&4=0&5=1&6=0&7=1&8=0&9=3&10=0&11=0&12=1&13=1&14=0&15=0&16=0&17=0 HTTP/1.1" 200 -
+2022-04-03 00:34:01,992 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:34:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-03 00:34:02,791 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:34:02] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-03 00:46:02,667 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 00:46:03,220 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 00:46:05,782 - root - INFO - App Initialized
+2022-04-03 00:46:07,032 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 00:46:07,036 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 00:46:07,155 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 00:46:10,718 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:46:10] "GET /quiz HTTP/1.1" 200 -
+2022-04-03 00:46:53,433 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 00:46:53,679 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 00:46:56,059 - root - INFO - App Initialized
+2022-04-03 00:46:57,375 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 00:46:57,379 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 00:46:57,520 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 00:46:58,439 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:46:58] "[35m[1mGET /quiz HTTP/1.1[0m" 500 -
+2022-04-03 00:46:58,463 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:46:58] "GET /quiz?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-03 00:46:58,463 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:46:58] "GET /quiz?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-03 00:46:58,502 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:46:58] "GET /quiz?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-03 00:46:58,521 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:46:58] "GET /quiz?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 00:46:58,547 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:46:58] "GET /quiz?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 00:47:13,336 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 00:47:13,575 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 00:47:15,932 - root - INFO - App Initialized
+2022-04-03 00:47:17,186 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 00:47:17,191 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 00:47:17,351 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 00:47:17,398 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:47:17] "[35m[1mGET /quiz HTTP/1.1[0m" 500 -
+2022-04-03 00:47:17,417 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:47:17] "GET /quiz?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-03 00:47:17,419 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:47:17] "GET /quiz?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-03 00:47:17,442 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:47:17] "GET /quiz?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 00:47:17,469 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:47:17] "GET /quiz?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-03 00:47:17,508 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:47:17] "GET /quiz?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 00:47:42,066 - root - INFO - App Initialized
+2022-04-03 00:47:43,463 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 00:47:49,766 - root - INFO - App Initialized
+2022-04-03 00:47:51,162 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 00:47:51,169 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 00:47:51,330 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 00:50:23,718 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:50:23] "[35m[1mGET /quiz HTTP/1.1[0m" 500 -
+2022-04-03 00:59:37,332 - root - INFO - App Initialized
+2022-04-03 00:59:38,701 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 00:59:41,148 - root - INFO - App Initialized
+2022-04-03 00:59:42,416 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 00:59:42,420 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 00:59:42,552 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 00:59:43,222 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:59:43] "GET / HTTP/1.1" 200 -
+2022-04-03 00:59:44,899 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:59:44] "GET /video_feed HTTP/1.1" 200 -
+2022-04-03 00:59:46,432 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 00:59:46] "GET /quiz HTTP/1.1" 200 -
+2022-04-03 01:00:20,312 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:00:20] "[35m[1mGET /depression-analysis?1=1&2=0&3=1&4=0&5=1&6=1&7=2&8=2&9=2&10=1&11=0&12=0&13=0&14=0&15=0&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-03 01:00:20,331 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:00:20] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-03 01:00:20,332 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:00:20] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-03 01:00:20,362 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:00:20] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-03 01:00:20,375 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:00:20] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 01:00:20,396 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:00:20] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 01:01:18,311 - root - INFO - App Initialized
+2022-04-03 01:02:16,261 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 01:02:20,772 - root - INFO - App Initialized
+2022-04-03 01:02:22,004 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 01:02:22,010 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 01:02:22,159 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 01:02:59,315 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:02:59] "[35m[1mGET /depression-analysis?1=1&2=0&3=1&4=0&5=1&6=1&7=2&8=2&9=2&10=1&11=0&12=0&13=0&14=0&15=0&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-03 01:02:59,345 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:02:59] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-03 01:02:59,350 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:02:59] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-03 01:02:59,366 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:02:59] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 01:02:59,389 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:02:59] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-03 01:02:59,430 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:02:59] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 01:12:01,754 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 01:12:09,138 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 01:12:13,812 - root - INFO - App Initialized
+2022-04-03 01:12:15,072 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 01:12:15,078 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 01:12:15,225 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 01:12:28,831 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:12:28] "[35m[1mGET /depression-analysis?1=1&2=0&3=1&4=0&5=1&6=1&7=2&8=2&9=2&10=1&11=0&12=0&13=0&14=0&15=0&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-03 01:12:28,861 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:12:28] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-03 01:12:28,866 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:12:28] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-03 01:12:28,879 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:12:28] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 01:12:28,908 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:12:28] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-03 01:12:28,951 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:12:28] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 01:32:04,630 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 01:32:04] "[35m[1mGET /depression-analysis?1=1&2=0&3=1&4=0&5=1&6=1&7=2&8=2&9=2&10=1&11=0&12=0&13=0&14=0&15=0&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-03 11:09:15,976 - root - INFO - App Initialized
+2022-04-03 11:09:17,634 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 11:09:20,831 - root - INFO - App Initialized
+2022-04-03 11:09:22,945 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 11:09:22,950 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 11:09:23,093 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 11:10:06,987 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 11:10:06] "GET / HTTP/1.1" 200 -
+2022-04-03 11:10:09,126 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 11:10:09] "GET /video_feed HTTP/1.1" 200 -
+2022-04-03 11:10:21,000 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 11:10:21] "POST /record_status HTTP/1.1" 200 -
+2022-04-03 11:10:21,651 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 11:10:21] "POST /record_status HTTP/1.1" 200 -
+2022-04-03 11:10:21,662 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 11:10:21] "GET /quiz HTTP/1.1" 200 -
+2022-04-03 11:11:06,094 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 11:11:06] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=2&10=1&11=2&12=1&13=1&14=1&15=2&16=1&17=1 HTTP/1.1" 200 -
+2022-04-03 11:11:06,123 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 11:11:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-03 14:05:40,484 - root - INFO - App Initialized
+2022-04-03 14:05:40,537 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 14:05:44,169 - root - INFO - App Initialized
+2022-04-03 14:05:44,235 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 14:05:44,247 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 14:05:44,446 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 14:06:06,421 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:06:06] "[35m[1mGET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=2&10=1&11=2&12=1&13=1&14=1&15=2&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-03 14:06:06,449 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:06:06] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-03 14:06:06,449 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:06:06] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-03 14:06:06,477 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:06:06] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-03 14:06:06,513 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:06:06] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:06:06,541 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:06:06] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:07:03,605 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 14:07:03,951 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 14:07:06,995 - root - INFO - App Initialized
+2022-04-03 14:07:07,038 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 14:07:07,042 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 14:07:07,202 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 14:07:08,071 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:07:08] "[35m[1mGET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=2&10=1&11=2&12=1&13=1&14=1&15=2&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-03 14:07:08,097 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:07:08] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-03 14:07:08,097 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:07:08] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-03 14:07:08,124 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:07:08] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-03 14:07:08,155 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:07:08] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:07:08,173 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:07:08] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:07:29,262 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 14:07:29,520 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 14:07:32,901 - root - INFO - App Initialized
+2022-04-03 14:07:32,942 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 14:07:32,947 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 14:07:33,101 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 14:07:33,899 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:07:33] "[35m[1mGET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=2&10=1&11=2&12=1&13=1&14=1&15=2&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-03 14:07:33,927 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:07:33] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-03 14:07:33,927 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:07:33] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-03 14:07:33,951 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:07:33] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-03 14:07:33,982 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:07:33] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:07:33,998 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:07:33] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:09:02,266 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 14:09:02,689 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 14:09:05,913 - root - INFO - App Initialized
+2022-04-03 14:09:05,955 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 14:09:05,960 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 14:09:06,108 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 14:09:09,225 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:09] "[35m[1mGET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=2&10=1&11=2&12=1&13=1&14=1&15=2&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-03 14:09:09,251 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:09] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-03 14:09:09,252 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:09] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-03 14:09:09,278 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:09] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-03 14:09:09,312 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:09] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:09:09,336 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:09] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:09:22,487 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 14:09:22,747 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 14:09:25,726 - root - INFO - App Initialized
+2022-04-03 14:09:25,768 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 14:09:25,773 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 14:09:25,918 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 14:09:28,187 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:28] "[35m[1mGET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=2&10=1&11=2&12=1&13=1&14=1&15=2&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-03 14:09:28,215 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:28] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-03 14:09:28,216 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:28] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-03 14:09:28,242 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:28] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-03 14:09:28,275 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:28] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:09:28,305 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:28] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:09:37,640 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 14:09:37,951 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 14:09:41,051 - root - INFO - App Initialized
+2022-04-03 14:09:41,101 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 14:09:41,107 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 14:09:41,274 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 14:09:42,802 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:42] "[35m[1mGET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=2&10=1&11=2&12=1&13=1&14=1&15=2&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-03 14:09:42,836 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:42] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-03 14:09:42,838 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:42] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-03 14:09:42,871 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:42] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:09:42,912 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:42] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-03 14:09:42,979 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:42] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:09:55,399 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 14:09:55,724 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 14:09:58,664 - root - INFO - App Initialized
+2022-04-03 14:09:58,706 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 14:09:58,711 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 14:09:58,863 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 14:09:59,679 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:59] "[35m[1mGET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=2&10=1&11=2&12=1&13=1&14=1&15=2&16=1&17=1 HTTP/1.1[0m" 500 -
+2022-04-03 14:09:59,709 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:59] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-03 14:09:59,711 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:59] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-03 14:09:59,770 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:59] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-03 14:09:59,821 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:59] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:09:59,851 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:09:59] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-03 14:10:57,016 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 14:10:57,333 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 14:11:00,203 - root - INFO - App Initialized
+2022-04-03 14:11:00,247 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 14:11:00,252 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 14:11:00,413 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 14:12:36,448 - root - INFO - App Initialized
+2022-04-03 14:12:36,540 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 14:12:42,475 - root - INFO - App Initialized
+2022-04-03 14:12:42,571 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 14:12:42,580 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 14:12:42,822 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 14:16:50,012 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 14:16:59,767 - root - INFO - App Initialized
+2022-04-03 14:16:59,874 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 14:17:07,354 - root - INFO - App Initialized
+2022-04-03 14:17:07,419 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 14:17:07,426 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 14:17:07,608 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 14:17:56,840 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:17:56] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=2&10=1&11=2&12=1&13=1&14=1&15=2&16=1&17=1 HTTP/1.1" 200 -
+2022-04-03 14:17:56,885 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:17:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-03 14:20:29,288 - root - INFO - App Initialized
+2022-04-03 14:20:29,350 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 14:20:32,764 - root - INFO - App Initialized
+2022-04-03 14:20:32,808 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 14:20:32,813 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 14:20:32,969 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 14:20:33,294 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:20:33] "GET / HTTP/1.1" 200 -
+2022-04-03 14:20:40,446 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:20:40] "GET /video_feed HTTP/1.1" 200 -
+2022-04-03 14:20:54,422 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 14:20:54] "GET /about HTTP/1.1" 200 -
+2022-04-03 14:21:00,843 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 14:21:01,101 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 14:21:04,027 - root - INFO - App Initialized
+2022-04-03 14:21:04,066 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 14:21:04,071 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 14:21:04,223 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 15:29:04,947 - root - INFO - App Initialized
+2022-04-03 15:29:04,984 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 15:29:07,337 - root - INFO - App Initialized
+2022-04-03 15:29:07,372 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 15:29:07,376 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 15:29:07,503 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 15:29:16,911 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:29:16] "GET / HTTP/1.1" 200 -
+2022-04-03 15:29:19,847 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:29:19] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-03 15:29:19,867 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:29:19] "GET /video_feed HTTP/1.1" 200 -
+2022-04-03 15:30:21,694 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 15:30:21,930 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 15:30:24,177 - root - INFO - App Initialized
+2022-04-03 15:30:24,211 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 15:30:24,215 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 15:30:24,335 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 15:30:28,815 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:30:28] "GET / HTTP/1.1" 200 -
+2022-04-03 15:31:23,073 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 15:31:23,328 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 15:31:25,713 - root - INFO - App Initialized
+2022-04-03 15:31:25,746 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 15:31:25,750 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 15:31:25,874 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 15:31:25,953 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:31:25] "GET / HTTP/1.1" 200 -
+2022-04-03 15:31:27,299 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:31:27] "GET / HTTP/1.1" 200 -
+2022-04-03 15:31:29,367 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 15:31:29,618 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 15:31:31,891 - root - INFO - App Initialized
+2022-04-03 15:31:31,925 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 15:31:31,930 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 15:31:32,059 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 15:31:34,989 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:31:34] "GET / HTTP/1.1" 200 -
+2022-04-03 15:31:36,216 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:31:36] "GET / HTTP/1.1" 200 -
+2022-04-03 15:34:47,596 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 15:34:47,818 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 15:34:50,083 - root - INFO - App Initialized
+2022-04-03 15:34:50,117 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 15:34:50,122 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 15:34:50,249 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 15:34:50,409 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:34:50] "GET / HTTP/1.1" 200 -
+2022-04-03 15:35:03,995 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 15:35:04,199 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 15:35:06,948 - root - INFO - App Initialized
+2022-04-03 15:35:06,990 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 15:35:06,994 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 15:35:07,166 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 15:35:12,286 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:35:12] "GET / HTTP/1.1" 200 -
+2022-04-03 15:35:26,414 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 15:35:26,656 - werkzeug - INFO -  * Restarting with stat
+2022-04-03 15:35:29,026 - root - INFO - App Initialized
+2022-04-03 15:35:29,063 - werkzeug - WARNING -  * Debugger is active!
+2022-04-03 15:35:29,068 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-03 15:35:29,197 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-03 15:35:29,277 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:35:29] "GET / HTTP/1.1" 200 -
+2022-04-03 15:35:57,860 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:35:57] "GET / HTTP/1.1" 200 -
+2022-04-03 15:36:09,219 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:36:09] "GET / HTTP/1.1" 200 -
+2022-04-03 15:36:19,236 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:36:19] "GET / HTTP/1.1" 200 -
+2022-04-03 15:36:24,731 - werkzeug - INFO - 127.0.0.1 - - [03/Apr/2022 15:36:24] "GET / HTTP/1.1" 200 -
+2022-04-03 15:36:45,929 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-03 15:36:46,190 - werkzeug - INFO -  * Restarting with stat
+2022-04-04 17:43:29,952 - root - INFO - App Initialized
+2022-04-04 17:43:31,441 - werkzeug - INFO -  * Restarting with stat
+2022-04-04 17:43:33,877 - root - INFO - App Initialized
+2022-04-04 17:43:35,175 - werkzeug - WARNING -  * Debugger is active!
+2022-04-04 17:43:35,180 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-04 17:43:35,301 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-04 17:43:41,004 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:43:41] "GET / HTTP/1.1" 200 -
+2022-04-04 17:43:41,337 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:43:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-04 17:46:33,864 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:46:33] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-04 17:46:35,834 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:46:35] "GET /video_feed HTTP/1.1" 200 -
+2022-04-04 17:46:38,602 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:46:38] "POST /record_status HTTP/1.1" 200 -
+2022-04-04 17:46:42,345 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:46:42] "POST /record_status HTTP/1.1" 200 -
+2022-04-04 17:46:42,353 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:46:42] "GET /quiz HTTP/1.1" 200 -
+2022-04-04 17:47:11,615 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:47:11] "[32mGET /depression-analysis?1=1&2=1&3=1&4=1&5=1&7=0&8=0&9=0&10=0&11=0&12=0&13=0&14=1&15=1&16=2&17=0 HTTP/1.1[0m" 302 -
+2022-04-04 17:47:11,624 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:47:11] "GET /quiz HTTP/1.1" 200 -
+2022-04-04 17:47:48,737 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:47:48] "GET /depression-analysis?1=1&2=0&3=0&4=1&5=1&6=0&7=1&8=1&9=1&10=1&11=1&12=1&13=1&14=1&15=1&16=1&17=1 HTTP/1.1" 200 -
+2022-04-04 17:47:48,762 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:47:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-04 17:47:49,394 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:47:49] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-04 17:48:43,563 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:48:43] "GET /video_feed HTTP/1.1" 200 -
+2022-04-04 17:48:52,979 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:48:52] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-04 17:48:53,015 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:48:53] "GET /video_feed HTTP/1.1" 200 -
+2022-04-04 17:48:57,047 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:48:57] "POST /record_status HTTP/1.1" 200 -
+2022-04-04 17:48:59,439 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:48:59] "POST /record_status HTTP/1.1" 200 -
+2022-04-04 17:48:59,446 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:48:59] "GET /quiz HTTP/1.1" 200 -
+2022-04-04 17:49:26,558 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:49:26] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=0&7=0&8=0&9=0&10=2&11=0&12=1&13=1&14=1&15=0&16=0&17=1 HTTP/1.1" 200 -
+2022-04-04 17:49:26,583 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:49:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-04 17:56:23,329 - root - INFO - App Initialized
+2022-04-04 17:56:24,886 - werkzeug - INFO -  * Restarting with stat
+2022-04-04 17:56:28,155 - root - INFO - App Initialized
+2022-04-04 17:56:29,622 - werkzeug - WARNING -  * Debugger is active!
+2022-04-04 17:56:29,626 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-04 17:56:29,781 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-04 17:56:32,581 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:56:32] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=0&7=0&8=0&9=0&10=2&11=0&12=1&13=1&14=1&15=0&16=0&17=1 HTTP/1.1" 200 -
+2022-04-04 17:56:32,608 - werkzeug - INFO - 127.0.0.1 - - [04/Apr/2022 17:56:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-04 17:59:03,363 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-04 17:59:03,745 - werkzeug - INFO -  * Restarting with stat
+2022-04-04 17:59:06,933 - root - INFO - App Initialized
+2022-04-04 17:59:08,323 - werkzeug - WARNING -  * Debugger is active!
+2022-04-04 17:59:08,328 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-04 17:59:08,470 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-04 17:59:44,101 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-04 17:59:44,433 - werkzeug - INFO -  * Restarting with stat
+2022-04-04 17:59:47,465 - root - INFO - App Initialized
+2022-04-04 17:59:48,837 - werkzeug - WARNING -  * Debugger is active!
+2022-04-04 17:59:48,842 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-04 17:59:48,983 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-05 02:06:48,039 - root - INFO - App Initialized
+2022-04-05 02:06:48,101 - werkzeug - INFO -  * Restarting with stat
+2022-04-05 02:06:50,911 - root - INFO - App Initialized
+2022-04-05 02:06:50,959 - werkzeug - WARNING -  * Debugger is active!
+2022-04-05 02:06:50,967 - werkzeug - INFO -  * Debugger PIN: 307-098-584
+2022-04-05 02:06:51,155 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-05 02:15:41,495 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2022 02:15:41] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=0&7=0&8=0&9=0&10=2&11=0&12=1&13=1&14=1&15=0&16=0&17=1 HTTP/1.1" 200 -
+2022-04-05 02:15:41,583 - werkzeug - INFO - 127.0.0.1 - - [05/Apr/2022 02:15:41] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-07 20:20:44,087 - root - INFO - App Initialized
+2022-04-07 20:20:44,129 - werkzeug - INFO -  * Restarting with stat
+2022-04-07 20:20:46,364 - root - INFO - App Initialized
+2022-04-07 20:20:46,396 - werkzeug - WARNING -  * Debugger is active!
+2022-04-07 20:20:46,403 - werkzeug - INFO -  * Debugger PIN: 569-475-487
+2022-04-07 20:20:46,529 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-07 20:22:02,597 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2022 20:22:02] "GET / HTTP/1.1" 200 -
+2022-04-07 20:22:02,693 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2022 20:22:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-07 20:23:31,339 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2022 20:23:31] "GET /quiz HTTP/1.1" 200 -
+2022-04-07 20:23:57,086 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2022 20:23:57] "GET /depression-analysis?1=2&2=0&3=0&4=1&5=1&6=1&7=1&8=1&9=1&10=2&11=1&12=1&13=1&14=1&15=1&16=1&17=1 HTTP/1.1" 200 -
+2022-04-07 20:23:57,110 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2022 20:23:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-07 20:23:57,631 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2022 20:23:57] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-07 20:24:10,529 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\app.py', reloading
+2022-04-07 20:24:10,774 - werkzeug - INFO -  * Restarting with stat
+2022-04-07 20:24:13,102 - root - INFO - App Initialized
+2022-04-07 20:24:13,135 - werkzeug - WARNING -  * Debugger is active!
+2022-04-07 20:24:13,139 - werkzeug - INFO -  * Debugger PIN: 569-475-487
+2022-04-07 20:24:13,270 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-07 20:24:15,188 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2022 20:24:15] "GET /depression-analysis?1=2&2=0&3=0&4=1&5=1&6=1&7=1&8=1&9=1&10=2&11=1&12=1&13=1&14=1&15=1&16=1&17=1 HTTP/1.1" 200 -
+2022-04-07 20:24:15,206 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2022 20:24:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-08 10:47:35,730 - root - INFO - App Initialized
+2022-04-08 10:47:35,989 - werkzeug - INFO -  * Restarting with stat
+2022-04-08 10:47:37,957 - root - INFO - App Initialized
+2022-04-08 10:47:38,027 - werkzeug - WARNING -  * Debugger is active!
+2022-04-08 10:47:38,027 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-08 10:47:38,168 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-08 10:48:54,360 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 10:48:54] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 10:48:54,369 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 10:48:54] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-08 10:48:54,444 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 10:48:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-08 10:49:00,770 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 10:49:00] "POST /login HTTP/1.1" 200 -
+2022-04-08 10:49:04,648 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 10:49:04] "POST /login HTTP/1.1" 200 -
+2022-04-08 10:49:05,855 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 10:49:05] "POST /login HTTP/1.1" 200 -
+2022-04-08 10:49:10,572 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 10:49:10] "GET /sign-up HTTP/1.1" 200 -
+2022-04-08 11:20:33,760 - root - INFO - App Initialized
+2022-04-08 11:20:33,989 - werkzeug - INFO -  * Restarting with stat
+2022-04-08 11:20:35,892 - root - INFO - App Initialized
+2022-04-08 11:20:35,961 - werkzeug - WARNING -  * Debugger is active!
+2022-04-08 11:20:35,961 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-08 11:20:36,095 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-08 11:21:14,395 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:21:14] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 11:21:14,411 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:21:14] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-08 11:21:14,491 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:21:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-08 11:21:16,946 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:21:16] "GET /sign-up HTTP/1.1" 200 -
+2022-04-08 11:21:42,605 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:21:42] "POST /sign-up HTTP/1.1" 200 -
+2022-04-08 11:21:55,894 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:21:55] "GET /sign-up HTTP/1.1" 200 -
+2022-04-08 11:22:16,119 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:22:16] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 11:22:16,122 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:22:16] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-08 11:22:25,414 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:22:25] "POST /login HTTP/1.1" 200 -
+2022-04-08 11:22:31,003 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:22:31] "POST /login HTTP/1.1" 200 -
+2022-04-08 11:22:46,395 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:22:46] "POST /sign-up HTTP/1.1" 200 -
+2022-04-08 11:23:48,975 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:23:48] "POST /login HTTP/1.1" 200 -
+2022-04-08 11:23:50,214 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 11:23:50] "POST /login HTTP/1.1" 200 -
+2022-04-08 17:44:56,261 - root - INFO - App Initialized
+2022-04-08 17:44:56,577 - werkzeug - INFO -  * Restarting with stat
+2022-04-08 17:44:59,307 - root - INFO - App Initialized
+2022-04-08 17:44:59,408 - werkzeug - WARNING -  * Debugger is active!
+2022-04-08 17:44:59,417 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-08 17:44:59,579 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-08 17:45:32,462 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:45:32] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 17:45:32,480 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:45:32] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-08 17:45:32,581 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:45:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-08 17:45:37,298 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:45:37] "POST /login HTTP/1.1" 200 -
+2022-04-08 17:45:49,238 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:45:49] "GET /sign-up HTTP/1.1" 200 -
+2022-04-08 17:46:24,571 - root - INFO - Signed Up Successfully
+2022-04-08 17:46:24,574 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:46:24] "[32mPOST /sign-up HTTP/1.1[0m" 302 -
+2022-04-08 17:46:24,593 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:46:24] "GET /login HTTP/1.1" 200 -
+2022-04-08 17:46:38,277 - root - INFO - Logged in Successfully
+2022-04-08 17:46:38,286 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:46:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-08 17:46:38,325 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:46:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2022-04-08 17:46:38,360 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:46:38] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-08 17:46:38,364 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:46:38] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-08 17:46:38,374 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:46:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-08 17:46:38,379 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:46:38] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-08 17:46:38,387 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:46:38] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-08 17:50:29,579 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:50:29] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 17:50:29,588 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:50:29] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-08 17:53:39,908 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aparn\\OneDrive\\Documents\\depression analysis\\Depression-analysis (2)\\Depression-analysis\\app.py', reloading
+2022-04-08 17:53:40,557 - werkzeug - INFO -  * Restarting with stat
+2022-04-08 17:53:43,946 - root - INFO - App Initialized
+2022-04-08 17:53:44,159 - werkzeug - WARNING -  * Debugger is active!
+2022-04-08 17:53:44,159 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-08 17:53:44,340 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-08 17:54:02,876 - root - INFO - App Initialized
+2022-04-08 17:54:03,127 - werkzeug - INFO -  * Restarting with stat
+2022-04-08 17:54:05,816 - root - INFO - App Initialized
+2022-04-08 17:54:05,929 - werkzeug - WARNING -  * Debugger is active!
+2022-04-08 17:54:05,936 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-08 17:54:06,094 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-08 17:54:26,774 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:54:26] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 17:54:26,793 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:54:26] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-08 17:54:58,140 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:54:58] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 17:54:58,158 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:54:58] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 17:54:59,936 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:54:59] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 17:55:15,890 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:55:15] "POST /record_status HTTP/1.1" 200 -
+2022-04-08 17:55:20,426 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 17:55:20] "GET /quiz HTTP/1.1" 200 -
+2022-04-08 18:04:37,636 - root - INFO - App Initialized
+2022-04-08 18:04:37,907 - werkzeug - INFO -  * Restarting with stat
+2022-04-08 18:04:40,506 - root - INFO - App Initialized
+2022-04-08 18:04:40,587 - werkzeug - WARNING -  * Debugger is active!
+2022-04-08 18:04:40,603 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-08 18:04:40,776 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-08 18:04:48,909 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:04:48] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 18:04:48,938 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:04:48] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-08 18:05:28,355 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:05:28] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 18:05:28,391 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:05:28] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 18:05:30,179 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:05:30] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 18:05:41,989 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:05:41] "POST /record_status HTTP/1.1" 200 -
+2022-04-08 18:05:48,469 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:05:48] "GET /quiz HTTP/1.1" 200 -
+2022-04-08 18:09:21,669 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:09:21] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 18:09:21,696 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:09:21] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-08 18:09:26,431 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:09:26] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 18:09:26,452 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:09:26] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 18:09:26,538 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:09:26] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 18:09:43,217 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:09:43] "POST /record_status HTTP/1.1" 200 -
+2022-04-08 18:09:47,269 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:09:47] "GET /depression-analysis?1=0&2=0&3=0&4=0&5=0&6=0&7=0&8=0&9=0&10=0&11=0&12=0&13=0&14=0&15=0&16=0&17=0 HTTP/1.1" 200 -
+2022-04-08 18:10:00,710 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:10:00] "GET /quiz HTTP/1.1" 200 -
+2022-04-08 18:15:19,972 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:15:19] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 18:15:19,998 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:15:19] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-08 18:15:22,671 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:15:22] "GET / HTTP/1.1" 200 -
+2022-04-08 18:16:29,777 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:16:29] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-08 18:16:29,794 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 18:16:29] "GET /login HTTP/1.1" 200 -
+2022-04-08 21:52:34,621 - root - INFO - App Initialized
+2022-04-08 21:52:34,988 - werkzeug - INFO -  * Restarting with stat
+2022-04-08 21:52:37,363 - root - INFO - App Initialized
+2022-04-08 21:52:37,472 - werkzeug - WARNING -  * Debugger is active!
+2022-04-08 21:52:37,488 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-08 21:52:37,647 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-08 21:53:09,812 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 21:53:09] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 21:53:09,827 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 21:53:09] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-08 21:53:15,039 - root - INFO - Logged in Successfully
+2022-04-08 21:53:15,043 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 21:53:15] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-08 21:53:15,060 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 21:53:15] "GET / HTTP/1.1" 200 -
+2022-04-08 21:53:17,311 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 21:53:17] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 21:53:19,063 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 21:53:19] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 21:53:29,701 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 21:53:29] "POST /record_status HTTP/1.1" 200 -
+2022-04-08 21:53:37,364 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 21:53:37] "GET /quiz HTTP/1.1" 200 -
+2022-04-08 21:59:37,323 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 21:59:37] "GET /depression-analysis?1=2&2=4&3=1&4=2&5=1&6=2&7=3&8=2&9=4&10=3&11=2&12=1&13=1&14=2&15=3&16=2&17=2 HTTP/1.1" 200 -
+2022-04-08 21:59:37,373 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 21:59:37] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-08 21:59:38,433 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 21:59:38] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-08 22:00:06,493 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:00:06] "GET / HTTP/1.1" 200 -
+2022-04-08 22:00:08,214 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:00:08] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 22:00:08,280 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:00:08] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 22:00:12,187 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:00:12] "POST /record_status HTTP/1.1" 200 -
+2022-04-08 22:00:17,492 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:00:17] "GET /quiz HTTP/1.1" 200 -
+2022-04-08 22:04:44,260 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:04:44] "GET / HTTP/1.1" 200 -
+2022-04-08 22:04:49,344 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:04:49] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 22:04:49,447 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:04:49] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 22:04:58,015 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:04:58] "POST /record_status HTTP/1.1" 200 -
+2022-04-08 22:04:58,113 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:04:58] "GET /depression-analysis?1=1&2=1&3=2&4=1&5=1&6=1&7=2&8=1&9=1&10=1&11=1&12=1&13=0&14=0&15=0&16=0&17=0 HTTP/1.1" 200 -
+2022-04-08 22:05:00,271 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:05:00] "GET /quiz HTTP/1.1" 200 -
+2022-04-08 22:10:34,563 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:10:34] "GET / HTTP/1.1" 200 -
+2022-04-08 22:10:51,982 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:10:51] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 22:10:52,104 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:10:52] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 22:11:01,283 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:11:01] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 22:11:01,331 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:11:01] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 22:11:06,563 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:11:06] "POST /record_status HTTP/1.1" 200 -
+2022-04-08 22:11:06,571 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:11:06] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=1&10=1&11=1&12=1&13=1&14=1&15=1&16=1&17=0 HTTP/1.1" 200 -
+2022-04-08 22:11:07,551 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:11:07] "GET /quiz HTTP/1.1" 200 -
+2022-04-08 22:12:10,476 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:12:10] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=1&10=1&11=1&12=0&13=0&14=0&15=0&16=0&17=0 HTTP/1.1" 200 -
+2022-04-08 22:12:10,519 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:12:10] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-08 22:13:09,758 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:13:09] "GET / HTTP/1.1" 200 -
+2022-04-08 22:13:11,792 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:13:11] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 22:13:11,891 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:13:11] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 22:13:15,609 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:13:15] "POST /record_status HTTP/1.1" 200 -
+2022-04-08 22:13:16,852 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:13:16] "GET /quiz HTTP/1.1" 200 -
+2022-04-08 22:15:11,311 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:15:11] "GET /depression-analysis?1=0&2=0&3=0&4=0&5=0&6=0&7=0&8=0&9=0&10=0&11=0&12=0&13=0&14=0&15=0&16=0&17=0 HTTP/1.1" 200 -
+2022-04-08 22:15:11,350 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:15:11] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-08 22:19:29,905 - root - INFO - App Initialized
+2022-04-08 22:19:30,182 - werkzeug - INFO -  * Restarting with stat
+2022-04-08 22:19:32,551 - root - INFO - App Initialized
+2022-04-08 22:19:32,667 - werkzeug - WARNING -  * Debugger is active!
+2022-04-08 22:19:32,676 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-08 22:19:32,817 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-08 22:20:12,554 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:20:12] "GET / HTTP/1.1" 200 -
+2022-04-08 22:20:14,553 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:20:14] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 22:20:16,343 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:20:16] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 22:20:19,695 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:20:19] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-08 22:20:19,713 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:20:19] "GET /login HTTP/1.1" 200 -
+2022-04-08 22:20:22,662 - root - INFO - Logged in Successfully
+2022-04-08 22:20:22,669 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:20:22] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-08 22:20:22,689 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:20:22] "GET / HTTP/1.1" 200 -
+2022-04-08 22:20:31,354 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:20:31] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 22:20:33,067 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:20:33] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 22:20:38,027 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:20:38] "POST /record_status HTTP/1.1" 200 -
+2022-04-08 22:20:43,189 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:20:43] "GET /quiz HTTP/1.1" 200 -
+2022-04-08 22:23:49,725 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:23:49] "GET /depression-analysis?1=0&2=0&3=0&4=0&5=0&6=0&7=1&8=0&9=0&10=0&11=1&12=0&13=0&14=0&15=0&16=0&17=0 HTTP/1.1" 200 -
+2022-04-08 22:23:49,776 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:23:49] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-08 22:50:41,423 - root - INFO - App Initialized
+2022-04-08 22:50:41,743 - werkzeug - INFO -  * Restarting with stat
+2022-04-08 22:50:44,137 - root - INFO - App Initialized
+2022-04-08 22:50:44,231 - werkzeug - WARNING -  * Debugger is active!
+2022-04-08 22:50:44,234 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-08 22:50:44,391 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-08 22:51:44,840 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:51:44] "GET / HTTP/1.1" 200 -
+2022-04-08 22:51:55,911 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:51:55] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-08 22:51:55,919 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:51:55] "GET /login HTTP/1.1" 200 -
+2022-04-08 22:51:57,363 - root - INFO - Logged in Successfully
+2022-04-08 22:51:57,363 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:51:57] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-08 22:51:57,379 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:51:57] "GET / HTTP/1.1" 200 -
+2022-04-08 22:51:59,225 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:51:59] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 22:52:01,049 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:52:01] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 22:52:29,240 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:52:29] "POST /record_status HTTP/1.1" 200 -
+2022-04-08 22:52:31,605 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:52:31] "GET /quiz HTTP/1.1" 200 -
+2022-04-08 22:56:35,665 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:56:35] "GET / HTTP/1.1" 200 -
+2022-04-08 22:56:41,296 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:56:41] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-08 22:56:41,312 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 22:56:41] "GET /login HTTP/1.1" 200 -
+2022-04-08 23:07:39,531 - root - INFO - App Initialized
+2022-04-08 23:07:39,795 - werkzeug - INFO -  * Restarting with stat
+2022-04-08 23:07:42,243 - root - INFO - App Initialized
+2022-04-08 23:07:42,327 - werkzeug - WARNING -  * Debugger is active!
+2022-04-08 23:07:42,327 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-08 23:07:42,496 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-08 23:08:18,340 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:08:18] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-08 23:08:18,370 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:08:18] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-08 23:08:18,484 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:08:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-08 23:08:20,294 - root - INFO - Logged in Successfully
+2022-04-08 23:08:20,300 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:08:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-08 23:08:20,342 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:08:20] "GET / HTTP/1.1" 200 -
+2022-04-08 23:08:23,647 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:08:23] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 23:08:25,434 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:08:25] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 23:08:29,571 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:08:29] "POST /record_status HTTP/1.1" 200 -
+2022-04-08 23:08:33,639 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:08:33] "GET /quiz HTTP/1.1" 200 -
+2022-04-08 23:12:52,022 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:12:52] "[35m[1mGET /depression-analysis?1=0&2=0&3=0&4=0&5=0&6=0&7=0&8=0&9=0&10=0&11=0&12=0&13=0&14=0&15=0&16=0&17=0 HTTP/1.1[0m" 500 -
+2022-04-08 23:12:52,069 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:12:52] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-08 23:12:52,071 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:12:52] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-08 23:12:52,081 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:12:52] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-08 23:12:52,081 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:12:52] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-08 23:12:52,094 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:12:52] "GET /depression-analysis?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-04-08 23:15:29,094 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aparn\\OneDrive\\Documents\\depression analysis\\Depression-analysis (2)\\Depression-analysis\\app.py', reloading
+2022-04-08 23:15:29,712 - werkzeug - INFO -  * Restarting with stat
+2022-04-08 23:15:32,695 - root - INFO - App Initialized
+2022-04-08 23:15:32,795 - werkzeug - WARNING -  * Debugger is active!
+2022-04-08 23:15:32,795 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-08 23:15:32,954 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-08 23:15:50,432 - root - INFO - App Initialized
+2022-04-08 23:15:50,609 - werkzeug - INFO -  * Restarting with stat
+2022-04-08 23:15:53,136 - root - INFO - App Initialized
+2022-04-08 23:15:53,222 - werkzeug - WARNING -  * Debugger is active!
+2022-04-08 23:15:53,235 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-08 23:15:53,392 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-08 23:16:43,449 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:16:43] "GET / HTTP/1.1" 200 -
+2022-04-08 23:16:45,536 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:16:45] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-08 23:16:45,549 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:16:45] "GET /login HTTP/1.1" 200 -
+2022-04-08 23:16:47,191 - root - INFO - Logged in Successfully
+2022-04-08 23:16:47,191 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:16:47] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-08 23:16:47,212 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:16:47] "GET / HTTP/1.1" 200 -
+2022-04-08 23:16:51,822 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:16:51] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-08 23:16:53,584 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:16:53] "GET /video_feed HTTP/1.1" 200 -
+2022-04-08 23:16:57,058 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:16:57] "POST /record_status HTTP/1.1" 200 -
+2022-04-08 23:16:58,789 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:16:58] "GET /quiz HTTP/1.1" 200 -
+2022-04-08 23:18:51,005 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:18:51] "GET /depression-analysis?1=0&2=0&3=0&4=0&5=0&6=0&7=0&8=0&9=0&10=0&11=0&12=0&13=0&14=0&15=0&16=0&17=0 HTTP/1.1" 200 -
+2022-04-08 23:18:51,065 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:18:51] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-08 23:18:51,840 - werkzeug - INFO - 127.0.0.1 - - [08/Apr/2022 23:18:51] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-09 22:58:31,030 - root - INFO - App Initialized
+2022-04-09 22:58:31,363 - werkzeug - INFO -  * Restarting with stat
+2022-04-09 22:58:33,949 - root - INFO - App Initialized
+2022-04-09 22:58:34,040 - werkzeug - WARNING -  * Debugger is active!
+2022-04-09 22:58:34,056 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-09 22:58:34,250 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-09 22:59:01,951 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 22:59:01] "GET / HTTP/1.1" 200 -
+2022-04-09 22:59:03,720 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 22:59:03] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-09 22:59:05,548 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 22:59:05] "GET /video_feed HTTP/1.1" 200 -
+2022-04-09 22:59:08,117 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 22:59:08] "POST /record_status HTTP/1.1" 200 -
+2022-04-09 22:59:09,046 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 22:59:09] "GET /quiz HTTP/1.1" 200 -
+2022-04-09 23:04:12,246 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:04:12] "GET / HTTP/1.1" 200 -
+2022-04-09 23:04:16,622 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:04:16] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-09 23:04:16,773 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:04:16] "GET /video_feed HTTP/1.1" 200 -
+2022-04-09 23:04:23,675 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:04:23] "POST /record_status HTTP/1.1" 200 -
+2022-04-09 23:04:23,854 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:04:23] "GET /depression-analysis?1=0&2=0&3=0&4=0&5=0&6=1&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-04-09 23:04:25,695 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:04:25] "GET /quiz HTTP/1.1" 200 -
+2022-04-09 23:07:12,332 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:07:12] "GET /depression-analysis?1=0&2=0&3=3&4=3&5=3&6=3&7=3&8=3&9=3 HTTP/1.1" 200 -
+2022-04-09 23:07:12,400 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:07:12] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-09 23:12:59,318 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:12:59] "GET / HTTP/1.1" 200 -
+2022-04-09 23:13:02,623 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:13:02] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-09 23:13:02,677 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:13:02] "GET /video_feed HTTP/1.1" 200 -
+2022-04-09 23:13:05,807 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:13:05] "POST /record_status HTTP/1.1" 200 -
+2022-04-09 23:13:05,822 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:13:05] "GET /depression-analysis?1=0&2=0&3=3&4=3&5=3&6=3&7=3&8=3&9=3 HTTP/1.1" 200 -
+2022-04-09 23:13:06,798 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:13:06] "GET /quiz HTTP/1.1" 200 -
+2022-04-09 23:16:22,497 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:16:22] "GET /depression-analysis?1=3&2=3&3=3&4=3&5=3&6=3&7=3&8=3&9=3 HTTP/1.1" 200 -
+2022-04-09 23:16:22,536 - werkzeug - INFO - 127.0.0.1 - - [09/Apr/2022 23:16:22] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-10 17:38:54,930 - root - INFO - App Initialized
+2022-04-10 17:38:55,229 - werkzeug - INFO -  * Restarting with stat
+2022-04-10 17:38:57,292 - root - INFO - App Initialized
+2022-04-10 17:38:57,359 - werkzeug - WARNING -  * Debugger is active!
+2022-04-10 17:38:57,359 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-10 17:38:57,498 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-10 17:39:41,824 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:39:41] "GET / HTTP/1.1" 200 -
+2022-04-10 17:39:45,348 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:39:45] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 17:39:47,081 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:39:47] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 17:39:55,775 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:39:55] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 17:39:58,530 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:39:58] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 17:41:47,943 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:41:47] "GET /depression-analysis?1=3&2=3&3=3&4=3&5=3&6=3&7=1&8=1&9=1 HTTP/1.1" 200 -
+2022-04-10 17:41:47,971 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:41:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-10 17:41:48,436 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:41:48] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-10 17:55:40,468 - root - INFO - App Initialized
+2022-04-10 17:55:40,731 - werkzeug - INFO -  * Restarting with stat
+2022-04-10 17:55:42,824 - root - INFO - App Initialized
+2022-04-10 17:55:42,891 - werkzeug - WARNING -  * Debugger is active!
+2022-04-10 17:55:42,891 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-10 17:55:43,032 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-10 17:56:51,918 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:56:51] "GET / HTTP/1.1" 200 -
+2022-04-10 17:56:53,892 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:56:53] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-10 17:56:53,901 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:56:53] "GET /login HTTP/1.1" 200 -
+2022-04-10 17:58:07,373 - root - INFO - Logged in Successfully
+2022-04-10 17:58:07,374 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:58:07] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-10 17:58:07,383 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:58:07] "GET / HTTP/1.1" 200 -
+2022-04-10 17:58:09,985 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:58:09] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 17:58:11,716 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:58:11] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 17:59:31,591 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:59:31] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 17:59:34,423 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 17:59:34] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 18:00:28,233 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:00:28] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 18:04:47,616 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:04:47] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 18:04:50,132 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:04:50] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 18:12:07,542 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:12:07] "GET / HTTP/1.1" 200 -
+2022-04-10 18:12:15,008 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:12:15] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 18:12:15,093 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:12:15] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 18:12:22,175 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:12:22] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 18:12:22,241 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:12:22] "GET /depression-analysis?1=0&2=0&3=1&4=1&5=1&6=2&7=1&8=0&9=0 HTTP/1.1" 200 -
+2022-04-10 18:12:22,940 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:12:22] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 18:15:55,155 - root - INFO - App Initialized
+2022-04-10 18:15:55,415 - werkzeug - INFO -  * Restarting with stat
+2022-04-10 18:15:58,030 - root - INFO - App Initialized
+2022-04-10 18:15:58,130 - werkzeug - WARNING -  * Debugger is active!
+2022-04-10 18:15:58,141 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-10 18:15:58,303 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-10 18:16:38,408 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:16:38] "GET / HTTP/1.1" 200 -
+2022-04-10 18:16:41,440 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:16:41] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-10 18:16:41,455 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:16:41] "GET /login HTTP/1.1" 200 -
+2022-04-10 18:16:43,499 - root - INFO - Logged in Successfully
+2022-04-10 18:16:43,503 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:16:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-10 18:16:43,522 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:16:43] "GET / HTTP/1.1" 200 -
+2022-04-10 18:16:52,557 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:16:52] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 18:16:54,355 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:16:54] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 18:16:57,610 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:16:57] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 18:17:00,022 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:17:00] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 18:25:26,040 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:25:26] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 18:25:30,158 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:25:30] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 18:25:30,291 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:25:30] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 18:25:38,338 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:25:38] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 18:25:38,690 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:25:38] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=1 HTTP/1.1" 200 -
+2022-04-10 18:25:38,706 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:25:38] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=1 HTTP/1.1" 200 -
+2022-04-10 18:25:38,804 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:25:38] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=1 HTTP/1.1" 200 -
+2022-04-10 18:25:41,289 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:25:41] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 18:30:38,847 - root - INFO - App Initialized
+2022-04-10 18:30:39,118 - werkzeug - INFO -  * Restarting with stat
+2022-04-10 18:30:41,715 - root - INFO - App Initialized
+2022-04-10 18:30:41,802 - werkzeug - WARNING -  * Debugger is active!
+2022-04-10 18:30:41,802 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-10 18:30:41,965 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-10 18:30:57,757 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:30:57] "GET / HTTP/1.1" 200 -
+2022-04-10 18:31:02,343 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:31:02] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 18:31:04,129 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:31:04] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 18:31:11,980 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:31:11] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 18:31:14,084 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:31:14] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 18:35:13,564 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:35:13] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=0&8=1&9=0 HTTP/1.1" 200 -
+2022-04-10 18:35:13,622 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:35:13] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-10 18:36:22,448 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:36:22] "GET / HTTP/1.1" 200 -
+2022-04-10 18:36:27,848 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:36:27] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 18:36:27,984 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:36:27] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 18:36:39,761 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:36:39] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 18:36:40,748 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:36:40] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 18:36:46,013 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:36:46] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 18:36:46,064 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:36:46] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 18:36:57,961 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:36:57] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 18:36:58,948 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:36:58] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 18:43:10,975 - root - INFO - App Initialized
+2022-04-10 18:43:11,175 - werkzeug - INFO -  * Restarting with stat
+2022-04-10 18:43:13,792 - root - INFO - App Initialized
+2022-04-10 18:43:13,908 - werkzeug - WARNING -  * Debugger is active!
+2022-04-10 18:43:13,917 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-10 18:43:14,069 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-10 18:43:55,461 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:43:55] "GET / HTTP/1.1" 200 -
+2022-04-10 18:43:57,858 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:43:57] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 18:43:59,646 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:43:59] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 18:44:06,898 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:44:06] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 18:44:08,585 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:44:08] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 18:49:45,089 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:49:45] "GET / HTTP/1.1" 200 -
+2022-04-10 18:49:46,741 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:49:46] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 18:49:46,850 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:49:46] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 18:49:52,637 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:49:52] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 18:49:52,891 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:49:52] "GET /depression-analysis?1=1&2=2&3=2&4=2&5=1&6=1&7=1&8=0&9=0 HTTP/1.1" 200 -
+2022-04-10 18:49:53,992 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:49:53] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 18:57:24,310 - root - INFO - App Initialized
+2022-04-10 18:57:24,669 - werkzeug - INFO -  * Restarting with stat
+2022-04-10 18:57:28,125 - root - INFO - App Initialized
+2022-04-10 18:57:28,261 - werkzeug - WARNING -  * Debugger is active!
+2022-04-10 18:57:28,261 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-10 18:57:28,427 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-10 18:58:12,999 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:58:12] "GET / HTTP/1.1" 200 -
+2022-04-10 18:58:17,901 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:58:17] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 18:58:19,698 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:58:19] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 18:58:25,638 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:58:25] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 18:58:26,255 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 18:58:26] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 19:07:34,787 - root - INFO - App Initialized
+2022-04-10 19:07:35,069 - werkzeug - INFO -  * Restarting with stat
+2022-04-10 19:07:36,951 - root - INFO - App Initialized
+2022-04-10 19:07:37,014 - werkzeug - WARNING -  * Debugger is active!
+2022-04-10 19:07:37,014 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-10 19:07:37,155 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-10 19:08:08,673 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:08] "GET / HTTP/1.1" 200 -
+2022-04-10 19:08:13,988 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:13] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-10 19:08:13,997 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:13] "GET /login HTTP/1.1" 200 -
+2022-04-10 19:08:16,120 - root - INFO - Logged in Successfully
+2022-04-10 19:08:16,120 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-10 19:08:16,136 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:16] "GET / HTTP/1.1" 200 -
+2022-04-10 19:08:18,127 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:18] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-10 19:08:18,145 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:18] "GET /login HTTP/1.1" 200 -
+2022-04-10 19:08:21,267 - root - INFO - Logged in Successfully
+2022-04-10 19:08:21,267 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:21] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-10 19:08:21,278 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:21] "GET / HTTP/1.1" 200 -
+2022-04-10 19:08:22,662 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:22] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 19:08:24,396 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:24] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 19:08:41,642 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:41] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 19:08:43,647 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:08:43] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 19:10:04,699 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:10:04] "GET /depression-analysis?1=3&2=3&3=3&4=3&5=3&6=2&7=2&8=1&9=1 HTTP/1.1" 200 -
+2022-04-10 19:10:04,725 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:10:04] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-10 19:10:05,432 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:10:05] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-10 19:12:31,063 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:12:31] "GET / HTTP/1.1" 200 -
+2022-04-10 19:12:34,974 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:12:34] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-10 19:12:34,988 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:12:34] "GET /login HTTP/1.1" 200 -
+2022-04-10 19:12:39,133 - root - INFO - Logged in Successfully
+2022-04-10 19:12:39,133 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:12:39] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-10 19:12:39,143 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:12:39] "GET / HTTP/1.1" 200 -
+2022-04-10 19:12:40,640 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:12:40] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-10 19:12:40,709 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:12:40] "GET /video_feed HTTP/1.1" 200 -
+2022-04-10 19:12:52,306 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:12:52] "POST /record_status HTTP/1.1" 200 -
+2022-04-10 19:12:54,599 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:12:54] "GET /quiz HTTP/1.1" 200 -
+2022-04-10 19:14:30,613 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:14:30] "GET /depression-analysis?1=1&2=1&3=1&4=2&5=3&6=1&7=1&8=1&9=0 HTTP/1.1" 200 -
+2022-04-10 19:14:30,648 - werkzeug - INFO - 127.0.0.1 - - [10/Apr/2022 19:14:30] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-11 09:27:04,000 - root - INFO - App Initialized
+2022-04-11 09:27:04,420 - werkzeug - INFO -  * Restarting with stat
+2022-04-11 09:27:06,949 - root - INFO - App Initialized
+2022-04-11 09:27:07,040 - werkzeug - WARNING -  * Debugger is active!
+2022-04-11 09:27:07,055 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-11 09:27:07,224 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-11 09:27:36,891 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:27:36] "GET / HTTP/1.1" 200 -
+2022-04-11 09:27:43,106 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:27:43] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 09:27:44,918 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:27:44] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 09:28:37,570 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:28:37] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 09:28:39,779 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:28:39] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 09:35:54,360 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:35:54] "GET / HTTP/1.1" 200 -
+2022-04-11 09:35:57,121 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:35:57] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 09:35:57,239 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:35:57] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 09:36:29,113 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:36:29] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 09:36:31,048 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:36:31] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 09:43:25,339 - root - INFO - App Initialized
+2022-04-11 09:43:25,588 - werkzeug - INFO -  * Restarting with stat
+2022-04-11 09:43:28,017 - root - INFO - App Initialized
+2022-04-11 09:43:28,099 - werkzeug - WARNING -  * Debugger is active!
+2022-04-11 09:43:28,115 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-11 09:43:28,257 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-11 09:44:28,625 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:44:28] "GET / HTTP/1.1" 200 -
+2022-04-11 09:44:33,978 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:44:33] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 09:44:35,763 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:44:35] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 09:44:47,533 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:44:47] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 09:44:49,210 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:44:49] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 09:50:45,909 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:50:45] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 09:50:48,097 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:50:48] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 09:51:00,263 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:51:00] "GET / HTTP/1.1" 200 -
+2022-04-11 09:52:40,354 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:52:40] "GET / HTTP/1.1" 200 -
+2022-04-11 09:52:42,276 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:52:42] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 09:52:42,352 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:52:42] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 09:52:59,821 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:52:59] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 09:53:00,008 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:53:00] "GET /depression-analysis?1=0&2=0&3=0&4=0&5=0&6=1&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-04-11 09:53:02,249 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:53:02] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 09:53:02,313 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:53:02] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 09:53:12,264 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:53:12] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 09:53:12,309 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:53:12] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 09:53:17,298 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:53:17] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 09:53:18,804 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:53:18] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 09:54:48,876 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:54:48] "GET /depression-analysis?1=1&2=1&3=0&4=0&5=0&6=0&7=0&8=0&9=1 HTTP/1.1" 200 -
+2022-04-11 09:54:48,927 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:54:48] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-11 09:54:49,641 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:54:49] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-11 09:55:29,895 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:55:29] "GET / HTTP/1.1" 200 -
+2022-04-11 09:55:32,284 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:55:32] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 09:55:32,452 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:55:32] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 09:55:35,385 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:55:35] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 09:55:35,616 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:55:35] "GET /depression-analysis?1=1&2=1&3=0&4=0&5=0&6=0&7=0&8=0&9=1 HTTP/1.1" 200 -
+2022-04-11 09:55:36,192 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 09:55:36] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 10:01:23,144 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:01:23] "GET / HTTP/1.1" 200 -
+2022-04-11 10:01:29,145 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:01:29] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-11 10:01:29,174 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:01:29] "GET /login HTTP/1.1" 200 -
+2022-04-11 10:01:31,302 - root - INFO - Logged in Successfully
+2022-04-11 10:01:31,307 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:01:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-11 10:01:31,331 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:01:31] "GET / HTTP/1.1" 200 -
+2022-04-11 10:01:33,983 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:01:33] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 10:01:34,125 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:01:34] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 10:03:04,477 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:03:04] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 10:03:04,727 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:03:04] "GET /depression-analysis?1=3&2=3&3=3&4=3&5=3&6=3&7=3&8=3&9=3 HTTP/1.1" 200 -
+2022-04-11 10:03:25,481 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:03:25] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 10:05:18,367 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:05:18] "[32mGET /depression-analysis?1=2&2=2&3=2&4=3&5=0&6=3&7=3 HTTP/1.1[0m" 302 -
+2022-04-11 10:05:18,383 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:05:18] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 10:06:00,228 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:06:00] "[32mGET /depression-analysis?1=1&2=1&3=0&5=1&6=2&7=0&8=3&9=3 HTTP/1.1[0m" 302 -
+2022-04-11 10:06:00,245 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:06:00] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 10:06:11,477 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:06:11] "GET / HTTP/1.1" 200 -
+2022-04-11 10:06:18,088 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:06:18] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 10:06:18,182 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:06:18] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 10:06:27,904 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:06:27] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 10:06:28,834 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:06:28] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 10:10:42,047 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:10:42] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 10:10:44,353 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:10:44] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 10:10:44,502 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:10:44] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 10:10:51,687 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:10:51] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 10:10:53,105 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:10:53] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 10:11:00,280 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:11:00] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=3&7=3&8=3&9=3 HTTP/1.1" 200 -
+2022-04-11 10:14:43,651 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:14:43] "GET / HTTP/1.1" 200 -
+2022-04-11 10:14:48,490 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:14:48] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 10:14:48,598 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:14:48] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 10:14:55,353 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:14:55] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 10:14:55,417 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:14:55] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=3&6=3&7=3&8=3&9=3 HTTP/1.1" 200 -
+2022-04-11 10:14:56,202 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:14:56] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 10:19:33,271 - root - INFO - App Initialized
+2022-04-11 10:19:33,553 - werkzeug - INFO -  * Restarting with stat
+2022-04-11 10:19:36,173 - root - INFO - App Initialized
+2022-04-11 10:19:36,262 - werkzeug - WARNING -  * Debugger is active!
+2022-04-11 10:19:36,262 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-11 10:19:36,434 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-11 10:19:43,763 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:19:43] "GET / HTTP/1.1" 200 -
+2022-04-11 10:19:46,550 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:19:46] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 10:19:48,332 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:19:48] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 10:19:53,366 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:19:53] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 10:19:54,268 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:19:54] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 10:22:11,246 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:22:11] "GET /depression-analysis?1=3&2=3&3=3&4=3&5=3&6=3&7=3&8=3&9=3 HTTP/1.1" 200 -
+2022-04-11 10:22:11,329 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 10:22:11] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-11 11:07:11,391 - root - INFO - App Initialized
+2022-04-11 11:07:11,598 - werkzeug - INFO -  * Restarting with stat
+2022-04-11 11:07:13,493 - root - INFO - App Initialized
+2022-04-11 11:07:13,561 - werkzeug - WARNING -  * Debugger is active!
+2022-04-11 11:07:13,561 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-11 11:07:13,694 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-11 17:19:33,563 - root - INFO - App Initialized
+2022-04-11 17:19:33,862 - werkzeug - INFO -  * Restarting with stat
+2022-04-11 17:19:36,330 - root - INFO - App Initialized
+2022-04-11 17:19:36,438 - werkzeug - WARNING -  * Debugger is active!
+2022-04-11 17:19:36,454 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-11 17:19:36,620 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-11 17:20:06,837 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:20:06] "GET / HTTP/1.1" 200 -
+2022-04-11 17:20:08,860 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:20:08] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 17:20:10,701 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:20:10] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 17:20:19,099 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:20:19] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 17:20:20,441 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:20:20] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 17:24:25,936 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:24:25] "GET / HTTP/1.1" 200 -
+2022-04-11 17:24:29,461 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:24:29] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 17:24:29,635 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:24:29] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 17:24:34,085 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:24:34] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 17:24:34,163 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:24:34] "GET /depression-analysis?1=0&2=0&3=0&4=0&5=0&6=0&7=1&8=1&9=1 HTTP/1.1" 200 -
+2022-04-11 17:24:35,423 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:24:35] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 17:27:03,039 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:27:03] "GET /depression-analysis?1=0&2=0&3=0&4=0&5=0&6=1&7=1&8=1&9=1 HTTP/1.1" 200 -
+2022-04-11 17:27:03,083 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:27:03] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-11 17:27:03,689 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:27:03] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-11 17:27:34,094 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:27:34] "GET / HTTP/1.1" 200 -
+2022-04-11 17:27:35,876 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:27:35] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 17:27:35,956 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:27:35] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 17:27:51,931 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:27:51] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 17:27:53,454 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:27:53] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 17:30:35,118 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:30:35] "GET /depression-analysis?1=3&2=3&3=3&4=0&5=0&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-04-11 17:30:35,182 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:30:35] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-11 17:31:33,843 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:31:33] "GET / HTTP/1.1" 200 -
+2022-04-11 17:31:36,216 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:31:36] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 17:31:36,323 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:31:36] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 17:31:43,079 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:31:43] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 17:31:44,872 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:31:44] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 17:36:01,014 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:36:01] "GET /depression-analysis?1=3&2=3&3=1&4=1&5=0&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-04-11 17:36:01,081 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:36:01] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-11 17:37:30,681 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:37:30] "GET / HTTP/1.1" 200 -
+2022-04-11 17:37:34,601 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:37:34] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 17:37:34,734 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:37:34] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 17:38:01,646 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:38:01] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 17:38:05,005 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:38:05] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 17:49:58,304 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:49:58] "GET /quiz HTTP/1.1" 200 -
+2022-04-11 17:50:25,003 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:50:25] "GET / HTTP/1.1" 200 -
+2022-04-11 17:50:26,948 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:50:26] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-11 17:50:27,031 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:50:27] "GET /video_feed HTTP/1.1" 200 -
+2022-04-11 17:50:32,782 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:50:32] "POST /record_status HTTP/1.1" 200 -
+2022-04-11 17:50:32,807 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:50:32] "GET /depression-analysis?1=3&2=3&3=3&4=3&5=3&6=3&7=3&8=3&9=3 HTTP/1.1" 200 -
+2022-04-11 17:50:36,526 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2022 17:50:36] "GET /quiz HTTP/1.1" 200 -
+2022-04-12 19:40:13,554 - root - INFO - App Initialized
+2022-04-12 19:40:13,806 - werkzeug - INFO -  * Restarting with stat
+2022-04-12 19:40:15,730 - root - INFO - App Initialized
+2022-04-12 19:40:15,786 - werkzeug - WARNING -  * Debugger is active!
+2022-04-12 19:40:15,786 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-12 19:40:15,918 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-12 19:41:00,954 - werkzeug - INFO - 127.0.0.1 - - [12/Apr/2022 19:41:00] "GET / HTTP/1.1" 200 -
+2022-04-12 19:41:01,130 - werkzeug - INFO - 127.0.0.1 - - [12/Apr/2022 19:41:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-12 19:41:13,463 - werkzeug - INFO - 127.0.0.1 - - [12/Apr/2022 19:41:13] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-12 19:41:13,468 - werkzeug - INFO - 127.0.0.1 - - [12/Apr/2022 19:41:13] "GET /login HTTP/1.1" 200 -
+2022-04-12 19:41:22,894 - werkzeug - INFO - 127.0.0.1 - - [12/Apr/2022 19:41:22] "GET /sign-up HTTP/1.1" 200 -
+2022-04-14 18:00:11,320 - root - INFO - App Initialized
+2022-04-14 18:00:11,534 - werkzeug - INFO -  * Restarting with stat
+2022-04-14 18:00:13,761 - root - INFO - App Initialized
+2022-04-14 18:00:13,820 - werkzeug - WARNING -  * Debugger is active!
+2022-04-14 18:00:13,820 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-14 18:00:13,945 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-14 18:00:54,222 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 18:00:54] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-14 18:00:54,237 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 18:00:54] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-14 18:01:03,238 - root - INFO - Logged in Successfully
+2022-04-14 18:01:03,238 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 18:01:03] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-04-14 18:01:03,264 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 18:01:03] "GET / HTTP/1.1" 200 -
+2022-04-14 18:01:05,246 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 18:01:05] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-14 18:01:07,030 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 18:01:07] "GET /video_feed HTTP/1.1" 200 -
+2022-04-14 18:01:26,113 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 18:01:26] "POST /record_status HTTP/1.1" 200 -
+2022-04-14 18:01:26,724 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 18:01:26] "GET /quiz HTTP/1.1" 200 -
+2022-04-14 18:02:24,652 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 18:02:24] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=0&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-04-14 18:02:24,687 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 18:02:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-14 19:42:57,130 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:42:57] "GET / HTTP/1.1" 200 -
+2022-04-14 19:42:59,435 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:42:59] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-14 19:43:01,363 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:43:01] "POST /record_status HTTP/1.1" 200 -
+2022-04-14 19:43:05,224 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:43:05] "GET /quiz HTTP/1.1" 200 -
+2022-04-14 19:43:20,713 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:43:20] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-04-14 19:43:20,754 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:43:20] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-14 19:43:22,812 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:43:22] "GET /video_feed HTTP/1.1" 200 -
+2022-04-14 19:43:33,745 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:43:33] "GET / HTTP/1.1" 200 -
+2022-04-14 19:43:37,537 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:43:37] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-14 19:43:40,688 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:43:40] "POST /record_status HTTP/1.1" 200 -
+2022-04-14 19:43:41,511 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:43:41] "GET /quiz HTTP/1.1" 200 -
+2022-04-14 19:43:47,604 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:43:47] "GET /video_feed HTTP/1.1" 200 -
+2022-04-14 19:44:02,805 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:02] "GET /depression-analysis?1=2&2=2&3=2&4=2&5=2&6=2&7=2&8=0&9=0 HTTP/1.1" 200 -
+2022-04-14 19:44:02,856 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:02] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-14 19:44:13,151 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:13] "GET / HTTP/1.1" 200 -
+2022-04-14 19:44:15,155 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:15] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-14 19:44:16,902 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:16] "POST /record_status HTTP/1.1" 200 -
+2022-04-14 19:44:17,752 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:17] "GET /quiz HTTP/1.1" 200 -
+2022-04-14 19:44:25,208 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:25] "GET /video_feed HTTP/1.1" 200 -
+2022-04-14 19:44:33,966 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:33] "GET /depression-analysis?1=2&2=2&3=2&4=2&5=2&6=2&7=2&8=1&9=0 HTTP/1.1" 200 -
+2022-04-14 19:44:34,001 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:34] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-14 19:44:48,798 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:48] "GET / HTTP/1.1" 200 -
+2022-04-14 19:44:51,483 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:51] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-14 19:44:55,473 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:55] "POST /record_status HTTP/1.1" 200 -
+2022-04-14 19:44:56,049 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:44:56] "GET /quiz HTTP/1.1" 200 -
+2022-04-14 19:45:01,560 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:45:01] "GET /video_feed HTTP/1.1" 200 -
+2022-04-14 19:45:12,331 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:45:12] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-04-14 19:45:12,373 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2022 19:45:12] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-17 21:30:34,923 - root - INFO - App Initialized
+2022-04-17 21:30:35,464 - werkzeug - INFO -  * Restarting with stat
+2022-04-17 21:30:38,166 - root - INFO - App Initialized
+2022-04-17 21:30:38,290 - werkzeug - WARNING -  * Debugger is active!
+2022-04-17 21:30:38,306 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-17 21:30:38,478 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-17 21:31:23,088 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:31:23] "GET / HTTP/1.1" 200 -
+2022-04-17 21:31:23,196 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:31:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-17 21:31:25,645 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:31:25] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-17 21:31:27,456 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:31:27] "GET /video_feed HTTP/1.1" 200 -
+2022-04-17 21:31:34,327 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:31:34] "POST /record_status HTTP/1.1" 200 -
+2022-04-17 21:31:36,529 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:31:36] "GET /quiz HTTP/1.1" 200 -
+2022-04-17 21:33:02,029 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:33:02] "GET /depression-analysis?1=0&2=0&3=0&4=0&5=0&6=1&7=1&8=1&9=1 HTTP/1.1" 200 -
+2022-04-17 21:33:02,079 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:33:02] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-17 21:33:25,523 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:33:25] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-17 21:33:25,535 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:33:25] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-04-17 21:33:26,070 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:33:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-17 21:33:37,650 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:33:37] "GET / HTTP/1.1" 200 -
+2022-04-17 21:33:37,748 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:33:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-17 21:33:39,542 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:33:39] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-17 21:33:39,720 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:33:39] "GET /video_feed HTTP/1.1" 200 -
+2022-04-17 21:33:58,314 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:33:58] "POST /record_status HTTP/1.1" 200 -
+2022-04-17 21:34:00,615 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:34:00] "GET /quiz HTTP/1.1" 200 -
+2022-04-17 21:36:23,075 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:36:23] "GET /depression-analysis?1=1&2=2&3=2&4=2&5=2&6=2&7=2&8=2&9=2 HTTP/1.1" 200 -
+2022-04-17 21:36:23,134 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2022 21:36:23] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-19 22:32:56,515 - root - INFO - App Initialized
+2022-04-19 22:32:56,555 - werkzeug - INFO -  * Restarting with stat
+2022-04-19 22:32:58,751 - root - INFO - App Initialized
+2022-04-19 22:32:58,783 - werkzeug - WARNING -  * Debugger is active!
+2022-04-19 22:32:58,790 - werkzeug - INFO -  * Debugger PIN: 982-224-101
+2022-04-19 22:32:58,908 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-19 22:33:17,464 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2022 22:33:17] "GET / HTTP/1.1" 200 -
+2022-04-19 22:33:17,556 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2022 22:33:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-19 22:34:59,267 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2022 22:34:59] "GET /quiz HTTP/1.1" 200 -
+2022-04-19 22:36:06,892 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2022 22:36:06] "GET /depression-analysis?1=1&2=1&3=1&4=2&5=2&6=2&7=2&8=2&9=1 HTTP/1.1" 200 -
+2022-04-19 22:36:06,913 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2022 22:36:06] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-19 22:36:07,267 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2022 22:36:07] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-19 22:36:46,189 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\Depression-analysis\\app.py', reloading
+2022-04-19 22:36:46,445 - werkzeug - INFO -  * Restarting with stat
+2022-04-19 22:36:48,877 - root - INFO - App Initialized
+2022-04-19 22:36:48,914 - werkzeug - WARNING -  * Debugger is active!
+2022-04-19 22:36:48,920 - werkzeug - INFO -  * Debugger PIN: 982-224-101
+2022-04-19 22:36:49,048 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-19 22:37:25,605 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2022 22:37:25] "GET /depression-analysis?1=1&2=1&3=1&4=2&5=2&6=2&7=2&8=2&9=1 HTTP/1.1" 200 -
+2022-04-19 22:37:25,624 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2022 22:37:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-19 22:39:27,067 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\Depression-analysis\\app.py', reloading
+2022-04-19 22:39:27,324 - werkzeug - INFO -  * Restarting with stat
+2022-04-19 22:39:29,890 - root - INFO - App Initialized
+2022-04-19 22:39:29,922 - werkzeug - WARNING -  * Debugger is active!
+2022-04-19 22:39:29,926 - werkzeug - INFO -  * Debugger PIN: 982-224-101
+2022-04-19 22:39:30,048 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-19 22:41:30,520 - werkzeug - INFO -  * Detected change in 'C:\\Users\\rahul\\MyProjects\\Depression-analysis\\Depression-analysis\\app.py', reloading
+2022-04-19 22:41:30,734 - werkzeug - INFO -  * Restarting with stat
+2022-04-19 22:41:33,001 - root - INFO - App Initialized
+2022-04-19 22:41:33,033 - werkzeug - WARNING -  * Debugger is active!
+2022-04-19 22:41:33,037 - werkzeug - INFO -  * Debugger PIN: 982-224-101
+2022-04-19 22:41:33,163 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-19 22:44:09,552 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2022 22:44:09] "GET /depression-analysis?1=1&2=1&3=1&4=2&5=2&6=2&7=2&8=2&9=1 HTTP/1.1" 200 -
+2022-04-19 22:44:09,570 - werkzeug - INFO - 127.0.0.1 - - [19/Apr/2022 22:44:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-04-20 21:44:30,496 - root - INFO - App Initialized
+2022-04-20 21:44:30,813 - werkzeug - INFO -  * Restarting with stat
+2022-04-20 21:44:33,276 - root - INFO - App Initialized
+2022-04-20 21:44:33,353 - werkzeug - WARNING -  * Debugger is active!
+2022-04-20 21:44:33,353 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-20 21:44:33,497 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-20 21:51:30,547 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:51:30] "GET / HTTP/1.1" 200 -
+2022-04-20 21:51:30,626 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:51:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-20 21:51:33,553 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:51:33] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-20 21:51:35,371 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:51:35] "GET /video_feed HTTP/1.1" 200 -
+2022-04-20 21:51:49,607 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:51:49] "POST /record_status HTTP/1.1" 200 -
+2022-04-20 21:51:51,540 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:51:51] "GET /quiz HTTP/1.1" 200 -
+2022-04-20 21:52:43,828 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:52:43] "GET /depression-analysis?1=1&2=1&3=0&4=0&5=0&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-04-20 21:52:43,872 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:52:43] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-20 21:53:09,636 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:53:09] "GET / HTTP/1.1" 200 -
+2022-04-20 21:53:12,631 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:53:12] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-20 21:53:12,669 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:53:12] "GET /video_feed HTTP/1.1" 200 -
+2022-04-20 21:53:32,782 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:53:32] "POST /record_status HTTP/1.1" 200 -
+2022-04-20 21:53:34,025 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:53:34] "GET /quiz HTTP/1.1" 200 -
+2022-04-20 21:54:45,763 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:54:45] "GET /depression-analysis?1=0&2=0&3=1&4=0&5=1&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-04-20 21:54:45,806 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 21:54:45] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-20 22:11:44,537 - root - INFO - App Initialized
+2022-04-20 22:11:44,803 - werkzeug - INFO -  * Restarting with stat
+2022-04-20 22:11:47,145 - root - INFO - App Initialized
+2022-04-20 22:11:47,225 - werkzeug - WARNING -  * Debugger is active!
+2022-04-20 22:11:47,225 - werkzeug - INFO -  * Debugger PIN: 152-088-022
+2022-04-20 22:11:47,351 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-20 22:12:13,077 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 22:12:13] "GET / HTTP/1.1" 200 -
+2022-04-20 22:12:13,156 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 22:12:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-20 22:12:15,729 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 22:12:15] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-20 22:12:17,452 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 22:12:17] "GET /video_feed HTTP/1.1" 200 -
+2022-04-20 22:12:30,347 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 22:12:30] "POST /record_status HTTP/1.1" 200 -
+2022-04-20 22:12:32,084 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 22:12:32] "GET /quiz HTTP/1.1" 200 -
+2022-04-20 22:13:13,812 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 22:13:13] "GET /depression-analysis?1=3&2=3&3=3&4=2&5=3&6=2&7=2&8=2&9=2 HTTP/1.1" 200 -
+2022-04-20 22:13:13,847 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2022 22:13:13] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-27 22:56:36,196 - root - INFO - App Initialized
+2022-04-27 22:56:36,509 - werkzeug - INFO -  * Restarting with stat
+2022-04-27 22:56:39,137 - root - INFO - App Initialized
+2022-04-27 22:56:39,228 - werkzeug - WARNING -  * Debugger is active!
+2022-04-27 22:56:39,244 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-04-27 22:56:39,434 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-04-27 22:57:05,308 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 22:57:05] "GET / HTTP/1.1" 200 -
+2022-04-27 22:57:05,416 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 22:57:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-27 22:57:08,167 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 22:57:08] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-27 22:57:09,982 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 22:57:09] "GET /video_feed HTTP/1.1" 200 -
+2022-04-27 22:57:28,598 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 22:57:28] "POST /record_status HTTP/1.1" 200 -
+2022-04-27 22:57:31,338 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 22:57:31] "GET /quiz HTTP/1.1" 200 -
+2022-04-27 22:59:59,282 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 22:59:59] "GET /depression-analysis?1=1&2=0&3=0&4=1&5=0&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-04-27 22:59:59,343 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 22:59:59] "GET /static/styles.css HTTP/1.1" 200 -
+2022-04-27 23:00:00,011 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 23:00:00] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-04-27 23:00:14,909 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 23:00:14] "GET / HTTP/1.1" 200 -
+2022-04-27 23:00:18,959 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 23:00:18] "GET /find_deppression HTTP/1.1" 200 -
+2022-04-27 23:00:19,022 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 23:00:19] "GET /video_feed HTTP/1.1" 200 -
+2022-04-27 23:00:25,970 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 23:00:25] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-27 23:00:25,993 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2022 23:00:25] "GET /login HTTP/1.1" 200 -
+2022-05-16 21:24:08,998 - root - INFO - App Initialized
+2022-05-16 21:24:09,219 - werkzeug - INFO -  * Restarting with stat
+2022-05-16 21:24:11,338 - root - INFO - App Initialized
+2022-05-16 21:24:11,408 - werkzeug - WARNING -  * Debugger is active!
+2022-05-16 21:24:11,423 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-05-16 21:24:11,570 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-16 21:24:35,823 - werkzeug - INFO - 127.0.0.1 - - [16/May/2022 21:24:35] "[32mGET / HTTP/1.1[0m" 302 -
+2022-05-16 21:24:35,841 - werkzeug - INFO - 127.0.0.1 - - [16/May/2022 21:24:35] "GET /login?next=%2F HTTP/1.1" 200 -
+2022-05-16 21:24:38,360 - root - INFO - Logged in Successfully
+2022-05-16 21:24:38,362 - werkzeug - INFO - 127.0.0.1 - - [16/May/2022 21:24:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+2022-05-16 21:24:38,379 - werkzeug - INFO - 127.0.0.1 - - [16/May/2022 21:24:38] "GET / HTTP/1.1" 200 -
+2022-05-16 21:24:40,017 - werkzeug - INFO - 127.0.0.1 - - [16/May/2022 21:24:40] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-16 21:24:41,758 - werkzeug - INFO - 127.0.0.1 - - [16/May/2022 21:24:41] "GET /video_feed HTTP/1.1" 200 -
+2022-05-16 21:24:51,172 - werkzeug - INFO - 127.0.0.1 - - [16/May/2022 21:24:51] "POST /record_status HTTP/1.1" 200 -
+2022-05-16 21:24:53,324 - werkzeug - INFO - 127.0.0.1 - - [16/May/2022 21:24:53] "GET /quiz HTTP/1.1" 200 -
+2022-05-16 21:25:52,626 - werkzeug - INFO - 127.0.0.1 - - [16/May/2022 21:25:52] "GET /depression-analysis?1=0&2=1&3=0&4=0&5=0&6=1&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-05-16 21:25:52,664 - werkzeug - INFO - 127.0.0.1 - - [16/May/2022 21:25:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-05-16 21:25:53,438 - werkzeug - INFO - 127.0.0.1 - - [16/May/2022 21:25:53] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-05-29 09:52:10,206 - root - INFO - App Initialized
+2022-05-29 09:52:10,657 - werkzeug - INFO -  * Restarting with stat
+2022-05-29 09:52:16,550 - root - INFO - App Initialized
+2022-05-29 09:52:16,718 - werkzeug - WARNING -  * Debugger is active!
+2022-05-29 09:52:16,727 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-05-29 09:52:17,033 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-29 09:53:38,744 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 09:53:38] "GET / HTTP/1.1" 200 -
+2022-05-29 09:53:38,860 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 09:53:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-05-29 09:53:40,758 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 09:53:40] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 09:53:42,597 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 09:53:42] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 09:53:56,572 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 09:53:56] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 09:53:58,844 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 09:53:58] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 09:57:13,413 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 09:57:13] "GET / HTTP/1.1" 200 -
+2022-05-29 09:57:16,664 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 09:57:16] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 09:57:16,794 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 09:57:16] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 09:57:37,594 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 09:57:37] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 09:57:40,330 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 09:57:40] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 10:03:04,972 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 10:03:04] "GET / HTTP/1.1" 200 -
+2022-05-29 10:03:06,719 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 10:03:06] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 10:03:06,787 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 10:03:06] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 10:03:13,425 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 10:03:13] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 10:03:17,727 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 10:03:17] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 10:05:31,011 - root - INFO - App Initialized
+2022-05-29 10:05:31,235 - werkzeug - INFO -  * Restarting with stat
+2022-05-29 10:05:33,260 - root - INFO - App Initialized
+2022-05-29 10:05:33,325 - werkzeug - WARNING -  * Debugger is active!
+2022-05-29 10:05:33,325 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-05-29 10:05:33,463 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-29 10:05:44,332 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 10:05:44] "GET / HTTP/1.1" 200 -
+2022-05-29 10:05:46,174 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 10:05:46] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 10:05:47,887 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 10:05:47] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 10:05:51,293 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 10:05:51] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 10:05:56,192 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 10:05:56] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 10:06:48,322 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 10:06:48] "GET /depression-analysis?1=0&2=0&3=0&4=0&5=0&6=1&7=1&8=1&9=0 HTTP/1.1" 200 -
+2022-05-29 10:06:48,356 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 10:06:48] "GET /static/styles.css HTTP/1.1" 200 -
+2022-05-29 11:16:26,392 - root - INFO - App Initialized
+2022-05-29 11:16:26,676 - werkzeug - INFO -  * Restarting with stat
+2022-05-29 11:16:28,705 - root - INFO - App Initialized
+2022-05-29 11:16:28,775 - werkzeug - WARNING -  * Debugger is active!
+2022-05-29 11:16:28,775 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-05-29 11:16:28,901 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-29 11:17:01,932 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:17:01] "GET / HTTP/1.1" 200 -
+2022-05-29 11:17:03,929 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:17:03] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 11:17:05,678 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:17:05] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 11:17:08,973 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:17:08] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 11:17:10,410 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:17:10] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 11:18:25,702 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:18:25] "GET /depression-analysis?1=2&2=2&3=2&4=1&5=1&6=0&7=0&8=0&9=1 HTTP/1.1" 200 -
+2022-05-29 11:18:25,739 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:18:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-05-29 11:18:26,187 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:18:26] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-05-29 11:30:21,297 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:30:21] "GET / HTTP/1.1" 200 -
+2022-05-29 11:30:24,602 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:30:24] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 11:30:24,730 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:30:24] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 11:30:27,034 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:30:27] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 11:30:28,864 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:30:28] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 11:31:02,022 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:31:02] "[32mGET /depression-analysis?1=2&2=2&3=2&4=1&5=0&6=1&8=0&9=0 HTTP/1.1[0m" 302 -
+2022-05-29 11:31:02,040 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:31:02] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 11:32:14,192 - root - INFO - App Initialized
+2022-05-29 11:32:14,400 - werkzeug - INFO -  * Restarting with stat
+2022-05-29 11:32:16,492 - root - INFO - App Initialized
+2022-05-29 11:32:16,561 - werkzeug - WARNING -  * Debugger is active!
+2022-05-29 11:32:16,561 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-05-29 11:32:16,687 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-29 11:32:32,836 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:32:32] "GET / HTTP/1.1" 200 -
+2022-05-29 11:32:35,270 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:32:35] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 11:32:36,994 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:32:36] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 11:32:39,036 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:32:39] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 11:32:40,318 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:32:40] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 11:33:28,883 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:33:28] "GET /depression-analysis?1=2&2=2&3=2&4=1&5=0&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-05-29 11:33:28,919 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:33:28] "GET /static/styles.css HTTP/1.1" 200 -
+2022-05-29 11:38:29,378 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:38:29] "GET / HTTP/1.1" 200 -
+2022-05-29 11:38:33,143 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:38:33] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 11:38:33,307 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:38:33] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 11:38:38,072 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:38:38] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 11:38:41,070 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:38:41] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 11:39:53,655 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:39:53] "GET /depression-analysis?1=0&2=0&3=1&4=1&5=0&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-05-29 11:39:53,680 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:39:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-05-29 11:41:06,512 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:41:06] "GET / HTTP/1.1" 200 -
+2022-05-29 11:41:09,508 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:41:09] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 11:41:09,534 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:41:09] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 11:41:11,480 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:41:11] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 11:41:12,479 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:41:12] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 11:42:33,761 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:42:33] "GET /depression-analysis?1=3&2=3&3=1&4=1&5=0&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-05-29 11:42:33,786 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:42:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-05-29 11:53:50,393 - root - INFO - App Initialized
+2022-05-29 11:53:50,630 - werkzeug - INFO -  * Restarting with stat
+2022-05-29 11:53:52,666 - root - INFO - App Initialized
+2022-05-29 11:53:52,733 - werkzeug - WARNING -  * Debugger is active!
+2022-05-29 11:53:52,733 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-05-29 11:53:52,866 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-29 11:55:20,072 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:55:20] "GET / HTTP/1.1" 200 -
+2022-05-29 11:55:23,755 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:55:23] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 11:55:25,460 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:55:25] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 11:55:35,914 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:55:35] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 11:55:37,874 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:55:37] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 11:56:37,368 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:56:37] "GET /depression-analysis?1=3&2=3&3=3&4=3&5=3&6=3&7=3&8=3&9=3 HTTP/1.1" 200 -
+2022-05-29 11:56:37,395 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:56:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-05-29 11:58:31,278 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:58:31] "GET / HTTP/1.1" 200 -
+2022-05-29 11:58:33,335 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:58:33] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 11:58:33,397 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:58:33] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 11:58:35,637 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:58:35] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 11:58:37,426 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 11:58:37] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 12:01:23,129 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 12:01:23] "GET /depression-analysis?1=2&2=2&3=2&4=2&5=2&6=2&7=2&8=1&9=0 HTTP/1.1" 200 -
+2022-05-29 12:01:23,153 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 12:01:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-05-29 12:02:06,005 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 12:02:06] "GET / HTTP/1.1" 200 -
+2022-05-29 12:02:09,780 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 12:02:09] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 12:02:09,802 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 12:02:09] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 12:02:13,350 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 12:02:13] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 12:02:14,666 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 12:02:14] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 12:03:41,973 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 12:03:41] "GET /depression-analysis?1=1&2=1&3=2&4=2&5=2&6=1&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-05-29 12:03:41,999 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 12:03:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-05-29 13:24:33,108 - root - INFO - App Initialized
+2022-05-29 13:24:33,395 - werkzeug - INFO -  * Restarting with stat
+2022-05-29 13:24:35,469 - root - INFO - App Initialized
+2022-05-29 13:24:35,545 - werkzeug - WARNING -  * Debugger is active!
+2022-05-29 13:24:35,550 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-05-29 13:24:35,689 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-29 13:25:19,003 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:25:19] "GET / HTTP/1.1" 200 -
+2022-05-29 13:25:21,309 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:25:21] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 13:25:23,049 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:25:23] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 13:25:26,646 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:25:26] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 13:25:28,223 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:25:28] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 13:26:32,654 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:26:32] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=1&7=1&8=1&9=1 HTTP/1.1" 200 -
+2022-05-29 13:26:32,686 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:26:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-05-29 13:26:33,287 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:26:33] "[33mGET /static/app-icon.ico HTTP/1.1[0m" 404 -
+2022-05-29 13:27:37,229 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:27:37] "GET / HTTP/1.1" 200 -
+2022-05-29 13:28:59,791 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:28:59] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 13:28:59,927 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:28:59] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 13:29:01,978 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:29:01] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 13:29:03,513 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:29:03] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 13:29:50,567 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:29:50] "GET /depression-analysis?1=3&2=3&3=3&4=3&5=3&6=3&7=3&8=3&9=3 HTTP/1.1" 200 -
+2022-05-29 13:29:50,588 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 13:29:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-05-29 16:30:52,735 - root - INFO - App Initialized
+2022-05-29 16:30:53,053 - werkzeug - INFO -  * Restarting with stat
+2022-05-29 16:30:56,637 - root - INFO - App Initialized
+2022-05-29 16:30:56,764 - werkzeug - WARNING -  * Debugger is active!
+2022-05-29 16:30:56,768 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-05-29 16:30:56,954 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-29 16:31:19,440 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:31:19] "GET / HTTP/1.1" 200 -
+2022-05-29 16:31:31,089 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:31:31] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 16:31:32,909 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:31:32] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 16:31:35,655 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:31:35] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 16:31:37,432 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:31:37] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 16:38:11,980 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:38:11] "GET /depression-analysis?1=1&2=1&3=1&4=1&5=1&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-05-29 16:40:46,785 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:40:46] "GET / HTTP/1.1" 200 -
+2022-05-29 16:41:01,720 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:41:01] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 16:41:01,860 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:41:01] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 16:41:05,145 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:41:05] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 16:41:06,231 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:41:06] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 16:48:40,956 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aparn\\OneDrive\\Documents\\final project\\Depression-analysis (2)\\Depression-analysis\\app.py', reloading
+2022-05-29 16:48:41,940 - werkzeug - INFO -  * Restarting with stat
+2022-05-29 16:48:50,308 - root - INFO - App Initialized
+2022-05-29 16:48:50,550 - werkzeug - WARNING -  * Debugger is active!
+2022-05-29 16:48:50,561 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-05-29 16:48:51,069 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-29 16:50:19,731 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:50:19] "[32mGET / HTTP/1.1[0m" 302 -
+2022-05-29 16:50:19,777 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:50:19] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 16:50:21,631 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:50:21] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 16:50:23,591 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:50:23] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 16:50:23,680 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:50:23] "GET /depression-analysis?1=3&2=3&3=3&4=3&5=3&6=3&7=3&8=3&9=3 HTTP/1.1" 200 -
+2022-05-29 16:50:24,773 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:50:24] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 16:52:57,211 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:52:57] "[32mGET /depression-analysis?1=0&2=0&3=1&4=1&5=1&7=2&8=2&9=2 HTTP/1.1[0m" 302 -
+2022-05-29 16:52:57,228 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:52:57] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 16:54:11,456 - root - INFO - App Initialized
+2022-05-29 16:54:11,748 - werkzeug - INFO -  * Restarting with stat
+2022-05-29 16:54:14,811 - root - INFO - App Initialized
+2022-05-29 16:54:14,909 - werkzeug - WARNING -  * Debugger is active!
+2022-05-29 16:54:14,913 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-05-29 16:54:15,099 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-29 16:54:33,407 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:54:33] "[32mGET / HTTP/1.1[0m" 302 -
+2022-05-29 16:54:33,444 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:54:33] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 16:54:35,286 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:54:35] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 16:54:36,340 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:54:36] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 16:54:37,596 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:54:37] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 16:58:52,716 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:58:52] "[32mGET / HTTP/1.1[0m" 302 -
+2022-05-29 16:58:52,753 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:58:52] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 16:58:52,882 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 16:58:52] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 17:01:00,711 - werkzeug - INFO -  * Detected change in 'C:\\Users\\aparn\\OneDrive\\Documents\\final project\\Depression-analysis (2)\\Depression-analysis\\app.py', reloading
+2022-05-29 17:01:01,668 - werkzeug - INFO -  * Restarting with stat
+2022-05-29 17:01:08,592 - root - INFO - App Initialized
+2022-05-29 17:01:08,712 - werkzeug - WARNING -  * Debugger is active!
+2022-05-29 17:01:08,718 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-05-29 17:01:08,900 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-29 17:01:30,061 - root - INFO - App Initialized
+2022-05-29 17:01:30,183 - werkzeug - INFO -  * Restarting with stat
+2022-05-29 17:01:33,712 - root - INFO - App Initialized
+2022-05-29 17:01:33,823 - werkzeug - WARNING -  * Debugger is active!
+2022-05-29 17:01:33,829 - werkzeug - INFO -  * Debugger PIN: 558-876-847
+2022-05-29 17:01:34,036 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-29 17:01:40,577 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:01:40] "[32mGET / HTTP/1.1[0m" 302 -
+2022-05-29 17:01:40,607 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:01:40] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 17:01:42,440 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:01:42] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 17:01:45,874 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:01:45] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 17:01:47,135 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:01:47] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 17:11:22,972 - root - INFO - App Initialized
+2022-05-29 17:11:23,705 - werkzeug - INFO -  * Restarting with stat
+2022-05-29 17:11:26,241 - root - INFO - App Initialized
+2022-05-29 17:11:26,318 - werkzeug - WARNING -  * Debugger is active!
+2022-05-29 17:11:26,341 - werkzeug - INFO -  * Debugger PIN: 139-382-330
+2022-05-29 17:11:26,516 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-29 17:12:03,764 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:12:03] "[32mGET / HTTP/1.1[0m" 302 -
+2022-05-29 17:12:03,793 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:12:03] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 17:12:04,010 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:12:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-05-29 17:12:05,641 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:12:05] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 17:12:07,667 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:12:07] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 17:12:09,639 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:12:09] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 17:12:41,445 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:12:41] "[32mGET /depressionanalysis?1=0&2=2&3=2&4=2&5=3&7=0&8=0&9=0 HTTP/1.1[0m" 302 -
+2022-05-29 17:12:41,461 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:12:41] "GET /quiz HTTP/1.1" 200 -
+2022-05-29 17:17:30,183 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:17:30] "[32mGET / HTTP/1.1[0m" 302 -
+2022-05-29 17:17:30,198 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:17:30] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-29 17:17:30,363 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:17:30] "GET /video_feed HTTP/1.1" 200 -
+2022-05-29 17:17:33,159 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:17:33] "POST /record_status HTTP/1.1" 200 -
+2022-05-29 17:17:33,220 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:17:33] "GET /depressionanalysis?1=3&2=3&3=3&4=1&5=3&6=2&7=3&8=2&9=3 HTTP/1.1" 200 -
+2022-05-29 17:17:34,758 - werkzeug - INFO - 127.0.0.1 - - [29/May/2022 17:17:34] "GET /quiz HTTP/1.1" 200 -
+2022-05-30 20:09:55,917 - root - INFO - App Initialized
+2022-05-30 20:09:57,376 - werkzeug - INFO -  * Restarting with stat
+2022-05-30 20:10:00,179 - root - INFO - App Initialized
+2022-05-30 20:10:00,270 - werkzeug - WARNING -  * Debugger is active!
+2022-05-30 20:10:00,286 - werkzeug - INFO -  * Debugger PIN: 134-532-741
+2022-05-30 20:10:00,443 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-05-30 20:10:33,054 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:10:33] "[32mGET / HTTP/1.1[0m" 302 -
+2022-05-30 20:10:33,077 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:10:33] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-30 20:10:34,942 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:10:34] "GET /video_feed HTTP/1.1" 200 -
+2022-05-30 20:10:40,297 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:10:40] "POST /record_status HTTP/1.1" 200 -
+2022-05-30 20:10:41,819 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:10:41] "GET /quiz HTTP/1.1" 200 -
+2022-05-30 20:12:23,254 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:12:23] "GET /depressionanalysis?1=1&2=1&3=1&4=1&5=0&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-05-30 20:12:23,310 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:12:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-05-30 20:13:46,668 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:13:46] "[32mGET / HTTP/1.1[0m" 302 -
+2022-05-30 20:13:46,675 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:13:46] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-30 20:13:46,854 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:13:46] "GET /video_feed HTTP/1.1" 200 -
+2022-05-30 20:13:51,683 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:13:51] "POST /record_status HTTP/1.1" 200 -
+2022-05-30 20:13:54,323 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:13:54] "GET /quiz HTTP/1.1" 200 -
+2022-05-30 20:15:23,169 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:15:23] "GET /depressionanalysis?1=2&2=2&3=3&4=2&5=3&6=2&7=3&8=3&9=3 HTTP/1.1" 200 -
+2022-05-30 20:15:23,203 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:15:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2022-05-30 20:15:42,135 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:15:42] "[32mGET / HTTP/1.1[0m" 302 -
+2022-05-30 20:15:42,147 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:15:42] "GET /find_deppression HTTP/1.1" 200 -
+2022-05-30 20:15:42,318 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:15:42] "GET /video_feed HTTP/1.1" 200 -
+2022-05-30 20:15:45,418 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:15:45] "POST /record_status HTTP/1.1" 200 -
+2022-05-30 20:15:48,125 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:15:48] "GET /quiz HTTP/1.1" 200 -
+2022-05-30 20:17:34,717 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:17:34] "GET /depressionanalysis?1=2&2=2&3=2&4=2&5=1&6=0&7=0&8=0&9=0 HTTP/1.1" 200 -
+2022-05-30 20:17:34,771 - werkzeug - INFO - 127.0.0.1 - - [30/May/2022 20:17:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -

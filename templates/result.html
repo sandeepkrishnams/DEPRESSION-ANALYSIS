@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>Depression Analysis App</title>
+		<link rel="shortcut icon" href="{{ url_for('static', filename='app-icon.ico') }}">
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+		<script src="https://kit.fontawesome.com/5f3f547070.js" crossorigin="anonymous"></script>
+		<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+	</head>
+
+    <body>
+
+        <!-- Website Title -->
+		<div class="container">
+            <h2 class='container-heading'><span class="heading_font">Depression Analyser</span></h2>
+            <div class='description'>
+    			<p>A Web app that predicts whether you have depression.</p>
+    		</div>
+    	</div>
+
+		<!-- Result -->
+		<div class="results">
+			{% if prediction==True %}
+				<h1>Prediction: <span class='danger'>You have depression. Don't panic , You should consult a doctor.</span></h1>
+				<img class="gif" src="{{ url_for('static', filename='depressed.webp') }}" alt="depressed Image">
+			{% elif prediction==False %}
+				<h1>Prediction: <span class='safe'>Great! You DON'T have Depression.</span></h1>
+				<img class="gif1" src="{{ url_for('static', filename='not-depressed.webp') }}" alt="Not depressed Image">
+			{% endif %}
+		</div>
+
+		<!-- Footer -->
+       <div class='footer'>
+		   <p class='footer-description'>Thanks.</p>
+       </div>
+
+	</body>
+</html>
